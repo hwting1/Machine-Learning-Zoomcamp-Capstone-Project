@@ -1,0 +1,1471 @@
+age,attrition,department,distance from home (miles),education,education field,marital status,monthly income,number of companies worked,work life balance,years at company
+41,1,Sales,1,College,Life Sciences,Single,5993,8,Bad,6
+49,0,Research & Development,8,Below College,Life Sciences,Married,5130,1,Better,10
+37,1,Research & Development,2,College,Other,Single,2090,6,Better,0
+33,0,Research & Development,3,Master,Life Sciences,Married,2909,1,Better,8
+27,0,Research & Development,2,Below College,Medical,Married,3468,9,Better,2
+32,0,Research & Development,2,College,Life Sciences,Single,3068,0,Good,7
+59,0,Research & Development,3,Bachelor,Medical,Married,2670,4,Good,1
+30,0,Research & Development,24,Below College,Life Sciences,Divorced,2693,1,Better,1
+38,0,Research & Development,23,Bachelor,Life Sciences,Single,9526,0,Better,9
+36,0,Research & Development,27,Bachelor,Medical,Married,5237,6,Good,7
+35,0,Research & Development,16,Bachelor,Medical,Married,2426,0,Better,5
+29,0,Research & Development,15,College,Life Sciences,Single,4193,0,Better,9
+31,0,Research & Development,26,Below College,Life Sciences,Divorced,2911,1,Good,5
+34,0,Research & Development,19,College,Medical,Divorced,2661,0,Better,2
+28,1,Research & Development,24,Bachelor,Life Sciences,Single,2028,5,Better,4
+29,0,Research & Development,21,Master,Life Sciences,Divorced,9980,1,Better,10
+32,0,Research & Development,5,College,Life Sciences,Divorced,3298,0,Good,6
+22,0,Research & Development,16,College,Medical,Divorced,2935,1,Good,1
+53,0,Sales,2,Master,Life Sciences,Married,15427,2,Better,25
+38,0,Research & Development,2,Bachelor,Life Sciences,Single,3944,5,Better,3
+24,0,Research & Development,11,College,Other,Divorced,4011,0,Good,4
+36,1,Sales,9,Master,Life Sciences,Single,3407,7,Better,5
+34,0,Research & Development,7,Master,Life Sciences,Single,11994,0,Better,12
+21,0,Research & Development,15,College,Life Sciences,Single,1232,1,Better,0
+34,1,Research & Development,6,Below College,Medical,Single,2960,2,Better,4
+53,0,Research & Development,5,Bachelor,Other,Divorced,19094,4,Good,14
+32,1,Research & Development,16,Below College,Life Sciences,Single,3919,1,Better,10
+42,0,Sales,8,Master,Marketing,Married,6825,0,Better,9
+44,0,Research & Development,7,Master,Medical,Married,10248,3,Better,22
+46,0,Sales,2,Master,Marketing,Single,18947,3,Good,2
+33,0,Research & Development,2,Bachelor,Medical,Single,2496,4,Better,1
+44,0,Research & Development,10,Master,Other,Married,6465,2,Best,4
+30,0,Research & Development,9,College,Medical,Single,2206,1,Better,10
+39,1,Sales,5,Bachelor,Technical Degree,Married,2086,3,Best,1
+24,1,Research & Development,1,Bachelor,Medical,Married,2293,2,Good,2
+43,0,Research & Development,2,College,Medical,Divorced,2645,1,Good,5
+50,1,Sales,3,College,Marketing,Married,2683,1,Better,3
+35,0,Sales,2,Bachelor,Marketing,Married,2014,1,Better,2
+36,0,Research & Development,5,Master,Life Sciences,Married,3419,9,Best,1
+33,0,Sales,1,Bachelor,Life Sciences,Married,5376,2,Better,5
+35,0,Research & Development,4,College,Other,Divorced,1951,1,Better,1
+27,0,Research & Development,2,Master,Life Sciences,Divorced,2341,1,Better,1
+26,1,Research & Development,25,Bachelor,Life Sciences,Single,2293,1,Good,1
+27,0,Sales,8,Bachelor,Life Sciences,Single,8726,1,Better,9
+30,0,Research & Development,1,College,Medical,Single,4011,1,Better,12
+41,1,Research & Development,12,Bachelor,Technical Degree,Married,19545,1,Better,22
+34,0,Sales,23,Master,Marketing,Single,4568,0,Better,9
+37,0,Research & Development,19,College,Life Sciences,Married,3022,4,Better,1
+46,0,Sales,5,Master,Marketing,Single,5772,4,Better,9
+35,0,Research & Development,8,Below College,Life Sciences,Married,2269,1,Better,1
+48,1,Research & Development,1,College,Life Sciences,Single,5381,9,Better,1
+28,1,Research & Development,5,Master,Technical Degree,Single,3441,1,Good,2
+44,0,Sales,1,Doctor,Marketing,Divorced,5454,5,Good,4
+35,0,Research & Development,11,College,Medical,Married,9884,2,Better,4
+26,0,Sales,23,Bachelor,Marketing,Married,4157,7,Good,2
+33,0,Research & Development,1,College,Life Sciences,Single,13458,1,Better,15
+35,0,Sales,18,Doctor,Life Sciences,Married,9069,1,Good,9
+35,0,Research & Development,23,Master,Medical,Married,4014,3,Better,2
+31,0,Research & Development,7,Master,Life Sciences,Divorced,5915,3,Good,7
+37,0,Research & Development,1,Master,Life Sciences,Divorced,5993,1,Best,7
+32,0,Research & Development,1,Bachelor,Medical,Married,6162,1,Better,9
+38,0,Research & Development,29,Doctor,Life Sciences,Single,2406,1,Better,10
+50,0,Research & Development,7,College,Medical,Divorced,18740,5,Good,27
+59,0,Sales,25,Bachelor,Life Sciences,Single,7637,7,Good,21
+36,0,Research & Development,8,Bachelor,Technical Degree,Divorced,10096,1,Better,17
+55,0,Research & Development,8,Bachelor,Medical,Divorced,14756,2,Better,5
+36,0,Research & Development,11,Bachelor,Life Sciences,Single,6499,1,Better,6
+45,0,Research & Development,7,Bachelor,Life Sciences,Divorced,9724,2,Better,1
+35,0,Research & Development,1,Bachelor,Medical,Married,2194,4,Good,3
+36,1,Research & Development,9,Bachelor,Medical,Married,3388,0,Good,1
+59,0,Sales,1,Below College,Life Sciences,Single,5473,7,Good,4
+29,0,Research & Development,2,Bachelor,Life Sciences,Married,2703,0,Better,5
+31,0,Research & Development,1,Master,Medical,Single,2501,1,Better,1
+32,0,Research & Development,1,Bachelor,Life Sciences,Married,6220,1,Better,10
+36,0,Research & Development,6,Bachelor,Life Sciences,Married,3038,3,Better,1
+31,0,Research & Development,8,Master,Life Sciences,Single,4424,1,Better,11
+35,0,Sales,1,Master,Marketing,Single,4312,0,Better,15
+45,0,Research & Development,6,Master,Other,Married,13245,4,Best,0
+37,0,Research & Development,7,Master,Medical,Single,13664,4,Best,5
+46,0,Human Resources,5,College,Medical,Divorced,5021,8,Better,4
+30,0,Research & Development,1,Below College,Life Sciences,Married,5126,1,Good,10
+35,0,Research & Development,1,Bachelor,Medical,Single,2859,1,Better,6
+55,0,Sales,1,College,Life Sciences,Married,10239,3,Better,1
+38,0,Research & Development,6,Bachelor,Medical,Divorced,5329,7,Better,13
+34,0,Research & Development,1,College,Medical,Married,4325,1,Better,5
+56,0,Research & Development,7,Bachelor,Life Sciences,Single,7260,4,Good,6
+23,0,Sales,2,Below College,Technical Degree,Divorced,2322,3,Better,0
+51,0,Research & Development,9,Master,Life Sciences,Married,2075,3,Better,4
+30,0,Research & Development,2,Bachelor,Life Sciences,Married,4152,1,Better,11
+46,1,Sales,9,College,Medical,Single,9619,1,Better,9
+40,0,Research & Development,1,Master,Life Sciences,Married,13503,1,Good,22
+51,0,Sales,21,Master,Marketing,Single,5441,0,Bad,10
+30,0,Sales,4,College,Medical,Divorced,5209,1,Good,11
+46,0,Research & Development,1,Bachelor,Medical,Married,10673,2,Good,10
+32,0,Sales,6,Master,Medical,Single,5010,1,Better,11
+54,0,Research & Development,2,Master,Technical Degree,Married,13549,9,Bad,4
+24,0,Sales,3,College,Other,Married,4999,0,Good,3
+28,0,Sales,4,Bachelor,Medical,Married,4221,1,Best,5
+58,0,Sales,10,Master,Medical,Single,13872,0,Good,37
+44,0,Research & Development,23,Bachelor,Medical,Married,2042,4,Best,3
+37,1,Human Resources,6,Master,Human Resources,Divorced,2073,4,Better,3
+32,0,Research & Development,1,Below College,Life Sciences,Single,2956,1,Better,1
+20,1,Research & Development,6,Bachelor,Life Sciences,Single,2926,1,Better,1
+34,0,Research & Development,6,Master,Other,Single,4809,1,Better,16
+37,0,Research & Development,2,College,Life Sciences,Divorced,5163,5,Best,1
+59,0,Human Resources,2,Master,Human Resources,Married,18844,9,Better,3
+50,0,Research & Development,1,Bachelor,Life Sciences,Married,18172,3,Good,8
+25,1,Sales,5,Bachelor,Marketing,Single,5744,1,Better,6
+25,0,Research & Development,7,Below College,Medical,Married,2889,1,Better,2
+22,0,Research & Development,15,Bachelor,Medical,Single,2871,1,Better,0
+51,0,Research & Development,1,Master,Medical,Single,7484,3,Good,13
+34,1,Research & Development,7,Bachelor,Life Sciences,Single,6074,1,Better,9
+54,0,Human Resources,26,Bachelor,Human Resources,Single,17328,2,Better,5
+24,0,Research & Development,18,Below College,Life Sciences,Married,2774,0,Better,5
+34,0,Research & Development,6,Master,Life Sciences,Divorced,4505,6,Better,1
+37,0,Sales,3,Bachelor,Life Sciences,Single,7428,2,Better,5
+34,0,Research & Development,5,Bachelor,Medical,Single,11631,2,Better,11
+36,0,Sales,11,College,Technical Degree,Married,9738,0,Better,9
+36,0,Research & Development,3,College,Life Sciences,Divorced,2835,5,Better,1
+43,0,Sales,26,College,Life Sciences,Married,16959,1,Best,25
+30,0,Research & Development,23,Bachelor,Life Sciences,Divorced,2613,1,Good,10
+33,0,Sales,22,College,Marketing,Married,6146,0,Best,7
+56,1,Research & Development,14,Master,Life Sciences,Married,4963,9,Better,5
+51,0,Research & Development,6,Bachelor,Life Sciences,Single,19537,7,Better,20
+31,1,Sales,6,Master,Life Sciences,Married,6172,4,Good,7
+26,0,Research & Development,6,Bachelor,Other,Married,2368,1,Good,5
+58,1,Research & Development,23,Master,Medical,Married,10312,1,Good,40
+19,1,Sales,22,Below College,Marketing,Single,1675,1,Good,0
+22,0,Research & Development,2,Below College,Technical Degree,Married,2523,0,Better,2
+49,0,Research & Development,20,Master,Medical,Married,6567,1,Good,15
+43,0,Research & Development,28,Bachelor,Medical,Single,4739,4,Better,3
+50,0,Sales,12,Bachelor,Marketing,Single,9208,4,Better,2
+31,1,Sales,20,Bachelor,Life Sciences,Married,4559,3,Better,2
+41,0,Sales,9,Below College,Life Sciences,Divorced,8189,3,Better,9
+26,0,Human Resources,25,Below College,Life Sciences,Married,2942,1,Better,8
+36,0,Research & Development,6,College,Medical,Divorced,4941,6,Better,3
+51,1,Research & Development,8,Master,Life Sciences,Single,10650,2,Better,4
+39,0,Sales,4,Master,Life Sciences,Married,5902,4,Best,15
+25,0,Sales,28,Bachelor,Life Sciences,Married,8639,2,Better,2
+30,0,Human Resources,9,Bachelor,Human Resources,Married,6347,0,Bad,11
+32,1,Research & Development,9,Bachelor,Medical,Single,4200,7,Best,5
+45,0,Research & Development,29,Bachelor,Medical,Single,3452,5,Good,6
+38,0,Research & Development,3,Doctor,Technical Degree,Single,4317,3,Better,3
+30,0,Research & Development,18,Bachelor,Life Sciences,Single,2632,1,Good,5
+32,0,Sales,9,College,Medical,Divorced,4668,0,Best,8
+30,0,Research & Development,5,Bachelor,Technical Degree,Divorced,3204,5,Better,3
+30,0,Research & Development,2,Below College,Medical,Single,2720,0,Better,5
+41,0,Research & Development,10,Bachelor,Life Sciences,Divorced,17181,4,Good,7
+41,0,Research & Development,9,Master,Life Sciences,Married,2238,2,Better,5
+19,0,Research & Development,3,Below College,Medical,Single,1483,1,Better,1
+40,0,Research & Development,26,Bachelor,Medical,Divorced,5605,1,Better,20
+35,0,Sales,1,Doctor,Marketing,Married,7295,1,Better,10
+53,0,Sales,6,College,Marketing,Married,2306,2,Bad,7
+45,0,Research & Development,9,Bachelor,Life Sciences,Divorced,2348,8,Bad,17
+32,0,Sales,8,Bachelor,Marketing,Single,8998,1,Better,9
+29,0,Research & Development,1,Below College,Technical Degree,Married,4319,1,Better,10
+51,0,Research & Development,7,Master,Medical,Married,6132,2,Better,1
+58,0,Research & Development,9,Bachelor,Medical,Married,3346,4,Good,1
+40,0,Sales,4,Master,Marketing,Married,10855,7,Good,12
+34,0,Sales,2,Master,Marketing,Married,2231,6,Better,4
+22,0,Research & Development,19,Below College,Medical,Married,2323,1,Better,2
+27,0,Research & Development,9,Bachelor,Medical,Divorced,2024,6,Bad,2
+28,0,Research & Development,21,Bachelor,Medical,Married,2713,1,Bad,5
+57,0,Research & Development,24,College,Life Sciences,Divorced,9439,3,Bad,5
+27,0,Research & Development,3,Bachelor,Medical,Divorced,2566,1,Good,1
+50,0,Research & Development,11,Bachelor,Life Sciences,Single,19926,3,Better,5
+41,0,Research & Development,14,Bachelor,Life Sciences,Divorced,2451,4,Better,9
+30,0,Sales,5,Bachelor,Life Sciences,Married,9419,2,Better,10
+38,0,Sales,1,Master,Life Sciences,Single,8686,4,Best,8
+32,0,Research & Development,6,Doctor,Life Sciences,Single,3038,3,Better,5
+27,0,Research & Development,17,Bachelor,Technical Degree,Married,3058,0,Good,5
+19,1,Sales,1,Below College,Technical Degree,Single,2325,0,Best,0
+36,0,Research & Development,3,College,Medical,Single,2088,4,Good,8
+30,0,Research & Development,9,Bachelor,Medical,Divorced,3072,1,Better,12
+45,0,Sales,4,College,Life Sciences,Divorced,5006,4,Best,5
+56,0,Research & Development,8,Bachelor,Life Sciences,Divorced,4257,4,Better,2
+33,0,Research & Development,2,Bachelor,Life Sciences,Single,2500,0,Best,3
+19,1,Research & Development,2,Bachelor,Life Sciences,Single,1102,1,Good,1
+46,0,Sales,1,College,Marketing,Divorced,10453,1,Better,24
+38,0,Research & Development,9,College,Life Sciences,Single,2288,1,Better,2
+31,0,Research & Development,12,Below College,Medical,Married,3929,8,Better,4
+34,0,Research & Development,27,College,Medical,Single,2311,2,Better,3
+41,1,Sales,20,College,Marketing,Single,3140,1,Good,4
+50,0,Research & Development,1,Bachelor,Medical,Married,3690,2,Good,3
+53,0,Research & Development,13,College,Medical,Divorced,4450,1,Better,4
+33,0,Research & Development,14,Bachelor,Medical,Married,2756,1,Better,8
+40,0,Research & Development,4,Below College,Medical,Married,19033,1,Better,20
+55,0,Research & Development,14,Master,Medical,Single,18722,8,Better,24
+34,0,Research & Development,2,Below College,Life Sciences,Married,9547,1,Good,10
+51,0,Research & Development,3,Bachelor,Medical,Single,13734,3,Better,7
+52,0,Research & Development,1,Master,Life Sciences,Married,19999,0,Better,33
+27,0,Research & Development,9,Bachelor,Medical,Single,2279,1,Good,7
+35,1,Research & Development,23,College,Life Sciences,Married,5916,3,Better,1
+43,0,Research & Development,7,Bachelor,Medical,Divorced,2089,4,Best,5
+45,0,Research & Development,2,College,Medical,Married,16792,9,Better,20
+37,0,Research & Development,21,Bachelor,Life Sciences,Married,3564,1,Good,8
+35,0,Research & Development,2,Bachelor,Medical,Single,4425,5,Better,6
+42,0,Research & Development,21,College,Medical,Divorced,5265,2,Better,5
+38,0,Research & Development,2,Master,Life Sciences,Married,6553,9,Better,1
+38,0,Research & Development,29,Bachelor,Technical Degree,Married,6261,3,Bad,7
+27,0,Research & Development,1,Below College,Technical Degree,Married,4298,5,Better,2
+49,0,Research & Development,18,Master,Life Sciences,Divorced,6804,1,Better,7
+34,0,Research & Development,10,Master,Medical,Divorced,3815,1,Best,5
+40,0,Research & Development,19,College,Medical,Married,2741,8,Best,7
+38,1,Research & Development,29,Below College,Medical,Married,6673,7,Better,1
+29,1,Sales,27,Bachelor,Marketing,Married,7639,1,Good,10
+22,0,Research & Development,5,Bachelor,Life Sciences,Divorced,2328,1,Good,4
+36,0,Research & Development,18,Below College,Medical,Single,2153,1,Better,8
+40,0,Research & Development,9,Doctor,Life Sciences,Married,4876,9,Bad,3
+46,0,Research & Development,1,Master,Medical,Divorced,9396,7,Better,4
+32,1,Sales,4,Master,Medical,Married,10400,1,Good,14
+30,0,Research & Development,1,Below College,Life Sciences,Single,8474,1,Better,11
+27,0,Sales,20,Bachelor,Life Sciences,Single,9981,1,Better,7
+51,0,Research & Development,8,Master,Life Sciences,Married,12490,5,Bad,10
+30,1,Research & Development,3,Bachelor,Technical Degree,Single,2657,5,Better,5
+41,0,Sales,6,Bachelor,Life Sciences,Single,13591,3,Better,1
+30,1,Sales,26,Master,Marketing,Single,6696,5,Good,6
+29,1,Research & Development,1,Bachelor,Technical Degree,Single,2058,0,Good,6
+45,0,Sales,6,Bachelor,Medical,Single,8865,6,Better,19
+54,0,Sales,3,Bachelor,Marketing,Married,5940,2,Better,6
+36,0,Research & Development,5,College,Life Sciences,Single,5914,8,Best,13
+33,0,Research & Development,4,Master,Medical,Married,2622,6,Better,3
+37,0,Research & Development,11,Bachelor,Other,Divorced,12185,1,Better,10
+38,0,Sales,3,Bachelor,Life Sciences,Divorced,10609,0,Good,16
+31,0,Research & Development,1,Master,Medical,Married,4345,0,Better,5
+59,0,Research & Development,3,Bachelor,Life Sciences,Married,2177,3,Better,1
+37,0,Sales,4,Master,Marketing,Divorced,2793,4,Better,9
+29,0,Sales,1,Below College,Medical,Married,7918,1,Better,11
+35,0,Sales,1,Bachelor,Marketing,Single,8789,1,Best,10
+29,1,Research & Development,18,Below College,Medical,Single,2389,1,Good,4
+52,0,Research & Development,2,Bachelor,Life Sciences,Single,3212,7,Good,2
+42,0,Research & Development,4,College,Technical Degree,Married,19232,1,Better,22
+59,0,Human Resources,6,College,Medical,Married,2267,8,Good,2
+50,0,Sales,1,Master,Medical,Divorced,19517,3,Good,7
+33,1,Research & Development,14,Bachelor,Medical,Married,2436,5,Bad,5
+43,0,Sales,16,Bachelor,Marketing,Married,16064,5,Better,17
+33,1,Research & Development,2,College,Life Sciences,Married,2707,7,Best,9
+52,0,Sales,2,Master,Life Sciences,Single,19068,1,Best,33
+32,0,Sales,4,College,Life Sciences,Married,3931,2,Better,4
+32,1,Research & Development,1,Bachelor,Life Sciences,Single,3730,0,Bad,3
+39,0,Research & Development,1,Master,Medical,Divorced,2232,7,Better,3
+32,0,Sales,26,Master,Marketing,Married,4465,0,Better,3
+41,0,Research & Development,19,College,Life Sciences,Divorced,3072,2,Good,1
+40,0,Research & Development,24,College,Technical Degree,Divorced,3319,1,Better,9
+45,0,Research & Development,1,Bachelor,Other,Married,19202,0,Better,24
+31,0,Research & Development,3,Master,Medical,Divorced,13675,9,Better,2
+33,0,Research & Development,5,Master,Life Sciences,Married,2911,1,Good,2
+34,0,Research & Development,2,Master,Life Sciences,Married,5957,6,Better,11
+37,0,Research & Development,1,College,Medical,Married,3920,2,Good,3
+45,0,Research & Development,7,Master,Life Sciences,Married,6434,4,Better,3
+37,1,Research & Development,10,Bachelor,Medical,Divorced,10048,6,Better,1
+39,0,Research & Development,2,Master,Technical Degree,Single,10938,0,Better,19
+29,0,Research & Development,15,Bachelor,Life Sciences,Single,2340,1,Better,6
+42,0,Research & Development,17,College,Life Sciences,Single,6545,3,Better,3
+29,0,Sales,20,College,Marketing,Divorced,6931,2,Better,3
+25,0,Research & Development,1,Bachelor,Life Sciences,Married,4898,0,Better,4
+42,0,Research & Development,2,Bachelor,Medical,Divorced,2593,0,Better,9
+40,0,Research & Development,2,College,Medical,Divorced,19436,0,Better,21
+51,0,Research & Development,1,Bachelor,Life Sciences,Married,2723,1,Good,1
+31,1,Research & Development,29,College,Medical,Single,3479,0,Best,5
+32,0,Research & Development,7,Bachelor,Life Sciences,Married,2794,1,Bad,5
+38,0,Sales,2,College,Life Sciences,Married,5249,3,Better,8
+32,0,Research & Development,2,Below College,Technical Degree,Single,2176,4,Better,6
+46,0,Sales,2,Bachelor,Technical Degree,Married,16872,3,Good,7
+28,1,Research & Development,2,Master,Life Sciences,Single,3485,2,Bad,0
+29,0,Sales,2,Bachelor,Medical,Married,6644,2,Better,0
+31,0,Research & Development,23,Bachelor,Medical,Married,5582,0,Better,9
+25,0,Research & Development,5,College,Life Sciences,Divorced,4000,1,Better,6
+45,0,Research & Development,20,College,Medical,Married,13496,0,Better,20
+36,0,Research & Development,6,Bachelor,Life Sciences,Married,3210,0,Better,15
+55,0,Research & Development,1,Bachelor,Medical,Single,19045,0,Better,36
+47,1,Research & Development,29,Master,Life Sciences,Married,11849,1,Good,10
+28,0,Research & Development,9,Bachelor,Medical,Married,2070,1,Good,5
+37,0,Sales,6,Master,Medical,Married,6502,4,Best,5
+21,0,Research & Development,3,College,Medical,Single,3230,1,Best,3
+37,0,Research & Development,1,Master,Medical,Divorced,13603,2,Better,5
+35,0,Research & Development,22,Bachelor,Life Sciences,Divorced,11996,7,Good,7
+38,0,Sales,7,College,Medical,Divorced,5605,1,Better,8
+26,0,Research & Development,1,Bachelor,Life Sciences,Divorced,6397,1,Bad,6
+50,0,Research & Development,4,Below College,Life Sciences,Divorced,19144,3,Good,10
+53,0,Research & Development,3,Master,Medical,Married,17584,3,Good,5
+42,0,Sales,1,Below College,Life Sciences,Married,4907,1,Better,20
+29,0,Sales,2,College,Life Sciences,Single,4554,1,Good,10
+55,0,Research & Development,20,College,Technical Degree,Married,5415,3,Better,10
+26,0,Research & Development,11,College,Medical,Married,4741,1,Better,5
+37,0,Research & Development,1,Bachelor,Life Sciences,Single,2115,1,Better,17
+44,1,Research & Development,24,Bachelor,Life Sciences,Divorced,3161,3,Bad,1
+38,0,Research & Development,23,Master,Life Sciences,Divorced,5745,9,Better,2
+26,1,Research & Development,16,Master,Medical,Divorced,2373,2,Better,3
+28,0,Research & Development,8,College,Life Sciences,Single,3310,1,Better,5
+49,0,Research & Development,10,Master,Life Sciences,Single,18665,9,Better,3
+36,0,Research & Development,3,Bachelor,Technical Degree,Single,4485,4,Better,8
+31,0,Sales,5,Bachelor,Marketing,Divorced,2789,1,Good,2
+26,1,Sales,4,Master,Marketing,Single,5828,1,Better,8
+37,0,Research & Development,9,Bachelor,Medical,Married,2326,1,Good,4
+42,0,Sales,26,Bachelor,Marketing,Married,13525,5,Best,20
+18,1,Research & Development,3,Bachelor,Life Sciences,Single,1420,1,Better,0
+35,0,Sales,16,Bachelor,Marketing,Married,8020,0,Good,11
+36,0,Research & Development,18,Master,Life Sciences,Married,3688,4,Better,1
+51,0,Research & Development,2,Bachelor,Medical,Divorced,5482,5,Better,4
+41,0,Sales,2,Master,Life Sciences,Single,16015,1,Better,22
+18,0,Sales,10,Bachelor,Medical,Single,1200,1,Better,0
+28,0,Research & Development,16,College,Medical,Single,5661,0,Better,8
+31,0,Sales,7,Bachelor,Technical Degree,Married,6929,4,Good,8
+39,0,Research & Development,1,Bachelor,Medical,Divorced,9613,0,Good,18
+36,0,Research & Development,24,Master,Life Sciences,Married,5674,7,Better,9
+32,0,Sales,7,Bachelor,Life Sciences,Married,5484,1,Good,13
+38,0,Research & Development,25,College,Life Sciences,Married,12061,3,Better,10
+58,0,Research & Development,1,Master,Life Sciences,Divorced,5660,2,Better,5
+31,0,Research & Development,5,Master,Technical Degree,Married,4821,0,Better,5
+31,0,Human Resources,2,Bachelor,Human Resources,Married,6410,3,Better,2
+45,0,Research & Development,7,Bachelor,Life Sciences,Divorced,5210,1,Better,24
+31,0,Research & Development,2,Master,Life Sciences,Divorced,2695,0,Bad,2
+33,0,Research & Development,5,Master,Life Sciences,Married,11878,6,Better,10
+39,0,Research & Development,10,Below College,Medical,Married,17068,1,Better,21
+43,0,Research & Development,10,Master,Life Sciences,Single,2455,0,Better,8
+49,0,Research & Development,1,College,Technical Degree,Single,13964,7,Better,7
+52,1,Research & Development,8,Master,Medical,Married,4941,2,Good,8
+27,0,Research & Development,5,Bachelor,Life Sciences,Single,2478,1,Good,4
+32,0,Sales,8,College,Technical Degree,Married,5228,1,Better,13
+27,0,Sales,2,Bachelor,Life Sciences,Single,4478,1,Better,5
+31,0,Sales,7,Bachelor,Marketing,Divorced,7547,4,Better,7
+32,0,Research & Development,2,Master,Medical,Single,5055,7,Good,7
+28,1,Research & Development,2,Master,Medical,Married,3464,5,Good,3
+30,0,Research & Development,28,College,Medical,Married,5775,1,Better,10
+31,0,Research & Development,7,College,Life Sciences,Married,8943,1,Better,10
+39,0,Research & Development,7,College,Medical,Married,19272,1,Better,21
+39,1,Sales,3,College,Medical,Married,5238,4,Good,1
+33,0,Sales,10,Bachelor,Marketing,Single,4682,3,Good,7
+47,0,Research & Development,5,Doctor,Life Sciences,Married,18300,4,Better,3
+43,0,Research & Development,10,Master,Life Sciences,Divorced,5257,1,Best,9
+27,0,Sales,1,Below College,Marketing,Married,6349,0,Better,5
+54,0,Research & Development,20,Master,Life Sciences,Single,4869,3,Good,4
+43,0,Research & Development,7,Bachelor,Life Sciences,Married,9985,8,Good,1
+45,0,Research & Development,8,Master,Other,Married,3697,9,Better,10
+40,0,Sales,1,College,Medical,Married,7457,2,Good,4
+29,1,Research & Development,8,Master,Other,Married,2119,1,Good,7
+29,0,Research & Development,9,Doctor,Other,Single,3983,0,Better,3
+30,0,Sales,5,Bachelor,Marketing,Divorced,6118,1,Better,10
+27,0,Sales,8,Master,Marketing,Married,6214,1,Better,8
+37,0,Research & Development,5,College,Medical,Divorced,6347,7,Good,6
+38,0,Research & Development,15,College,Life Sciences,Divorced,11510,0,Better,11
+31,0,Research & Development,7,Master,Medical,Single,7143,1,Good,11
+29,0,Sales,10,Below College,Marketing,Divorced,8268,1,Better,7
+35,0,Research & Development,5,Master,Technical Degree,Single,8095,0,Better,16
+23,0,Research & Development,26,Below College,Life Sciences,Divorced,2904,1,Good,4
+41,0,Research & Development,6,Bachelor,Medical,Single,6032,6,Better,5
+47,0,Sales,4,Below College,Medical,Single,2976,3,Better,0
+42,0,Research & Development,23,Doctor,Life Sciences,Single,15992,2,Better,1
+29,0,Sales,2,Bachelor,Life Sciences,Married,4649,1,Good,4
+42,0,Human Resources,2,Below College,Technical Degree,Divorced,2696,0,Better,3
+32,0,Research & Development,2,Bachelor,Medical,Married,2370,1,Better,8
+48,0,Sales,29,Below College,Medical,Married,12504,3,Bad,0
+37,0,Research & Development,6,Bachelor,Medical,Divorced,5974,4,Better,7
+30,0,Sales,25,College,Technical Degree,Married,4736,7,Best,2
+26,0,Sales,1,Bachelor,Life Sciences,Married,5296,1,Better,8
+42,0,Research & Development,2,Master,Other,Single,6781,3,Better,1
+21,1,Sales,1,Below College,Technical Degree,Single,2174,1,Better,3
+36,0,Sales,1,Doctor,Medical,Single,6653,4,Better,1
+36,0,Sales,3,Master,Medical,Married,9699,4,Better,13
+57,0,Research & Development,1,Master,Medical,Married,6755,2,Better,3
+40,0,Research & Development,10,Master,Life Sciences,Married,2213,3,Better,7
+21,0,Sales,9,College,Medical,Single,2610,1,Good,3
+33,1,Sales,5,Bachelor,Marketing,Single,2851,1,Better,1
+37,0,Research & Development,10,Bachelor,Medical,Married,3452,6,Better,5
+46,0,Research & Development,7,Master,Medical,Married,5258,2,Best,1
+41,1,Sales,4,Bachelor,Marketing,Single,9355,1,Better,8
+50,0,Research & Development,10,Bachelor,Technical Degree,Single,10496,6,Better,4
+40,1,Sales,22,College,Marketing,Married,6380,2,Better,6
+31,0,Research & Development,9,Master,Life Sciences,Single,2657,0,Better,2
+21,1,Sales,12,Bachelor,Life Sciences,Single,2716,1,Better,1
+29,0,Research & Development,23,Bachelor,Life Sciences,Single,2201,9,Better,3
+35,0,Research & Development,9,Master,Life Sciences,Single,6540,9,Better,1
+27,0,Research & Development,1,College,Medical,Divorced,3816,1,Better,5
+28,0,Sales,9,Master,Life Sciences,Single,5253,1,Better,7
+49,0,Research & Development,7,Bachelor,Other,Single,10965,8,Better,5
+51,0,Sales,14,College,Life Sciences,Married,4936,4,Good,7
+36,0,Research & Development,2,Bachelor,Life Sciences,Married,2543,4,Better,2
+34,1,Sales,19,Bachelor,Marketing,Single,5304,8,Good,5
+55,0,Research & Development,2,Bachelor,Life Sciences,Single,16659,2,Better,5
+24,0,Sales,10,Master,Marketing,Divorced,4260,1,Best,5
+30,0,Sales,2,Below College,Technical Degree,Married,2476,1,Better,1
+26,1,Research & Development,3,Below College,Technical Degree,Single,3102,0,Better,6
+22,0,Research & Development,11,Bachelor,Medical,Married,2244,1,Better,2
+36,0,Sales,2,College,Medical,Married,7596,1,Better,10
+30,1,Research & Development,4,Bachelor,Technical Degree,Single,2285,9,Better,1
+37,0,Research & Development,14,Bachelor,Life Sciences,Divorced,3034,1,Good,18
+40,0,Sales,2,College,Marketing,Divorced,5715,7,Better,5
+42,0,Research & Development,1,Master,Life Sciences,Divorced,2576,3,Better,5
+37,0,Research & Development,10,Master,Life Sciences,Single,4197,2,Good,1
+43,0,Research & Development,12,Bachelor,Life Sciences,Divorced,14336,1,Better,25
+40,0,Research & Development,2,Bachelor,Medical,Married,3448,6,Better,1
+54,0,Research & Development,5,College,Medical,Married,19406,4,Good,4
+34,0,Sales,4,Master,Marketing,Married,6538,9,Better,3
+31,0,Research & Development,7,College,Medical,Married,4306,1,Bad,13
+43,0,Research & Development,21,Bachelor,Medical,Married,2258,7,Better,3
+43,0,Research & Development,8,Master,Other,Divorced,4522,4,Better,5
+25,0,Sales,4,College,Life Sciences,Single,4487,1,Better,5
+37,0,Research & Development,25,Doctor,Medical,Married,4449,3,Better,13
+31,0,Research & Development,1,College,Life Sciences,Married,2218,1,Better,4
+39,0,Research & Development,1,Below College,Life Sciences,Divorced,19197,1,Better,21
+56,0,Sales,6,Bachelor,Life Sciences,Married,13212,9,Good,7
+30,0,Sales,12,Bachelor,Technical Degree,Single,6577,0,Better,5
+41,0,Sales,1,Bachelor,Marketing,Married,8392,1,Better,10
+28,0,Research & Development,17,College,Medical,Divorced,4558,1,Better,10
+25,1,Research & Development,3,Bachelor,Medical,Married,4031,5,Better,2
+52,0,Research & Development,3,Bachelor,Medical,Married,7969,2,Better,5
+45,0,Research & Development,10,College,Life Sciences,Married,2654,3,Good,2
+52,0,Research & Development,4,College,Life Sciences,Married,16555,2,Bad,5
+42,0,Research & Development,29,College,Life Sciences,Divorced,4556,2,Better,5
+30,0,Research & Development,2,Bachelor,Life Sciences,Single,6091,2,Better,5
+60,0,Research & Development,7,Bachelor,Life Sciences,Married,19566,5,Bad,29
+46,0,Research & Development,18,Bachelor,Medical,Divorced,4810,2,Good,10
+42,0,Research & Development,28,Master,Technical Degree,Married,4523,0,Best,6
+24,1,Sales,1,Below College,Technical Degree,Single,3202,1,Better,5
+34,1,Sales,6,College,Marketing,Divorced,2351,0,Good,2
+38,0,Research & Development,2,College,Life Sciences,Married,1702,1,Better,1
+40,0,Sales,2,Master,Life Sciences,Married,18041,0,Better,20
+26,0,Research & Development,23,Bachelor,Life Sciences,Divorced,2886,1,Bad,3
+30,0,Research & Development,3,Bachelor,Life Sciences,Married,2097,4,Bad,5
+29,0,Research & Development,3,Master,Medical,Married,11935,1,Better,10
+29,1,Research & Development,25,Doctor,Technical Degree,Married,2546,5,Best,2
+19,1,Human Resources,2,College,Technical Degree,Single,2564,1,Best,1
+30,0,Sales,22,Master,Other,Married,8412,0,Better,9
+57,0,Sales,29,Bachelor,Marketing,Divorced,14118,3,Good,1
+50,0,Research & Development,29,Master,Life Sciences,Married,17046,0,Better,27
+30,0,Research & Development,2,Bachelor,Medical,Single,2564,0,Good,11
+60,0,Sales,28,Bachelor,Marketing,Married,10266,4,Best,18
+47,0,Research & Development,2,College,Medical,Divorced,5070,5,Better,5
+46,0,Research & Development,2,Bachelor,Life Sciences,Married,17861,6,Bad,3
+35,0,Research & Development,22,Bachelor,Life Sciences,Single,4230,0,Better,5
+54,0,Research & Development,8,Master,Life Sciences,Single,3780,7,Better,1
+34,0,Research & Development,2,Master,Life Sciences,Divorced,2768,3,Better,7
+46,0,Sales,10,Bachelor,Marketing,Married,9071,2,Better,3
+31,0,Research & Development,9,Below College,Life Sciences,Divorced,10648,1,Best,13
+33,1,Research & Development,15,Below College,Medical,Married,13610,7,Best,7
+33,1,Research & Development,10,Below College,Medical,Divorced,3408,7,Better,4
+30,0,Sales,7,Below College,Marketing,Single,2983,0,Better,3
+35,0,Research & Development,16,Bachelor,Life Sciences,Married,7632,4,Better,8
+31,1,Research & Development,20,Bachelor,Life Sciences,Married,9824,3,Better,1
+34,1,Human Resources,23,Bachelor,Human Resources,Divorced,9950,9,Better,3
+42,0,Research & Development,5,College,Other,Married,2093,4,Better,2
+36,0,Sales,10,Master,Medical,Single,9980,1,Good,10
+22,1,Research & Development,4,Below College,Technical Degree,Single,3894,5,Better,2
+48,0,Sales,2,Doctor,Marketing,Married,4051,2,Better,9
+55,0,Sales,18,Doctor,Life Sciences,Single,16835,3,Better,10
+41,0,Sales,10,College,Life Sciences,Single,6230,7,Better,14
+35,0,Sales,1,Bachelor,Marketing,Married,4717,9,Better,11
+40,0,Research & Development,6,Bachelor,Life Sciences,Single,13237,7,Better,20
+39,0,Research & Development,8,Below College,Life Sciences,Married,3755,1,Better,8
+31,0,Sales,2,Below College,Life Sciences,Single,6582,4,Best,6
+42,0,Research & Development,24,Bachelor,Medical,Married,7406,1,Good,10
+45,0,Sales,2,Bachelor,Other,Married,4805,0,Best,8
+26,1,Human Resources,17,Master,Life Sciences,Divorced,2741,0,Good,7
+29,0,Research & Development,19,Bachelor,Technical Degree,Divorced,4262,4,Best,3
+33,0,Research & Development,1,Doctor,Medical,Divorced,16184,4,Better,6
+31,0,Sales,7,Bachelor,Life Sciences,Divorced,11557,9,Good,5
+18,1,Sales,5,Bachelor,Marketing,Single,1878,1,Better,0
+40,0,Sales,28,Bachelor,Other,Divorced,10932,3,Better,1
+41,0,Research & Development,2,Master,Other,Single,6811,2,Better,8
+26,0,Sales,29,College,Medical,Divorced,4306,5,Better,0
+35,0,Sales,1,Bachelor,Medical,Single,4859,1,Better,5
+34,0,Sales,21,Master,Life Sciences,Single,5337,1,Better,10
+26,1,Research & Development,24,Bachelor,Technical Degree,Single,2340,1,Bad,1
+37,0,Research & Development,1,Bachelor,Technical Degree,Single,7491,4,Best,6
+46,0,Research & Development,18,Below College,Medical,Married,10527,5,Good,2
+41,0,Sales,2,Doctor,Life Sciences,Married,16595,7,Better,18
+37,0,Sales,9,Master,Medical,Divorced,8834,1,Better,9
+52,0,Research & Development,6,College,Technical Degree,Divorced,5577,3,Better,10
+32,1,Sales,11,Master,Other,Married,4707,8,Better,4
+24,0,Sales,24,Bachelor,Medical,Married,2400,0,Better,2
+38,0,Research & Development,10,Bachelor,Medical,Married,9824,3,Better,1
+37,0,Research & Development,1,Master,Life Sciences,Married,6447,6,Good,6
+49,0,Research & Development,18,Master,Life Sciences,Divorced,19502,1,Better,31
+24,0,Research & Development,23,Bachelor,Medical,Married,2725,1,Better,6
+26,0,Sales,28,College,Marketing,Married,6272,1,Best,5
+24,0,Research & Development,17,College,Other,Married,2127,1,Better,1
+50,0,Human Resources,3,Bachelor,Medical,Married,18200,1,Better,32
+25,0,Sales,13,Below College,Medical,Married,2096,1,Better,7
+24,1,Research & Development,7,Bachelor,Life Sciences,Married,2886,1,Better,6
+30,1,Sales,12,Master,Life Sciences,Married,2033,1,Best,1
+34,0,Research & Development,1,College,Life Sciences,Married,3622,1,Better,6
+31,1,Sales,13,Master,Medical,Divorced,4233,2,Bad,3
+35,0,Research & Development,25,College,Other,Single,3681,4,Better,3
+31,0,Sales,6,Master,Medical,Divorced,5460,4,Best,7
+27,0,Research & Development,6,Master,Medical,Divorced,2187,0,Good,5
+37,0,Sales,2,Bachelor,Marketing,Married,9602,4,Good,3
+20,0,Research & Development,1,Bachelor,Life Sciences,Single,2836,1,Best,1
+42,0,Research & Development,2,Master,Life Sciences,Married,4089,1,Better,10
+43,0,Research & Development,6,Master,Other,Divorced,16627,4,Good,1
+38,0,Research & Development,1,Below College,Life Sciences,Single,2619,3,Good,0
+43,0,Research & Development,9,Doctor,Medical,Divorced,5679,3,Better,8
+48,0,Research & Development,1,Master,Life Sciences,Married,15402,7,Bad,3
+44,0,Human Resources,1,Master,Life Sciences,Single,5985,4,Best,2
+34,0,Sales,14,Bachelor,Technical Degree,Divorced,2579,1,Better,8
+27,1,Sales,2,Below College,Marketing,Divorced,3041,0,Better,4
+21,0,Sales,22,Below College,Technical Degree,Single,3447,1,Better,3
+44,0,Research & Development,3,Master,Other,Married,19513,4,Best,2
+22,0,Research & Development,6,Below College,Medical,Married,2773,0,Better,2
+33,0,Sales,8,Master,Marketing,Divorced,7104,0,Better,5
+32,0,Research & Development,9,Master,Life Sciences,Married,6322,1,Good,6
+30,0,Research & Development,3,Bachelor,Medical,Divorced,2083,1,Better,1
+53,0,Sales,1,Below College,Medical,Single,8381,7,Best,14
+34,0,Research & Development,1,Doctor,Life Sciences,Married,2691,1,Good,10
+45,1,Sales,26,Master,Life Sciences,Married,4286,2,Better,1
+26,0,Research & Development,6,Bachelor,Life Sciences,Married,2659,1,Better,3
+37,0,Research & Development,3,Bachelor,Other,Married,9434,1,Better,10
+29,0,Sales,3,College,Medical,Married,5561,1,Good,6
+35,0,Research & Development,6,Master,Life Sciences,Single,6646,1,Better,17
+33,0,Research & Development,6,Bachelor,Life Sciences,Divorced,7725,3,Bad,13
+54,0,Human Resources,19,Master,Medical,Married,10725,2,Best,9
+36,0,Research & Development,9,College,Medical,Divorced,8847,2,Better,3
+27,0,Research & Development,3,Master,Medical,Single,2045,0,Better,4
+20,1,Research & Development,10,Below College,Medical,Single,1009,1,Better,1
+33,1,Research & Development,3,Bachelor,Life Sciences,Single,3348,1,Better,10
+35,0,Research & Development,3,Bachelor,Life Sciences,Married,1281,1,Better,1
+23,0,Research & Development,4,Bachelor,Medical,Married,2819,2,Best,3
+25,0,Sales,8,Bachelor,Life Sciences,Married,4851,0,Better,3
+38,0,Sales,7,Master,Marketing,Single,4028,0,Better,7
+29,0,Research & Development,1,Master,Life Sciences,Divorced,2720,1,Better,10
+48,0,Sales,2,Below College,Marketing,Married,8120,3,Better,2
+27,0,Sales,3,Below College,Medical,Divorced,4647,1,Better,6
+37,0,Research & Development,10,College,Life Sciences,Single,4680,3,Better,1
+50,0,Research & Development,28,Below College,Medical,Married,3221,1,Better,20
+34,0,Research & Development,9,Bachelor,Medical,Single,8621,1,Best,8
+24,1,Sales,3,College,Life Sciences,Single,4577,9,Better,2
+39,0,Research & Development,2,Master,Technical Degree,Single,4553,1,Better,20
+32,0,Sales,10,Bachelor,Marketing,Single,5396,1,Good,10
+50,1,Sales,8,College,Technical Degree,Married,6796,3,Better,4
+38,0,Research & Development,1,Master,Life Sciences,Single,7625,0,Good,9
+27,0,Research & Development,1,College,Life Sciences,Married,7412,1,Better,9
+32,0,Research & Development,3,College,Life Sciences,Single,11159,3,Better,7
+47,0,Sales,14,Master,Marketing,Single,4960,2,Better,7
+40,0,Sales,5,Master,Life Sciences,Married,10475,5,Better,18
+53,0,Research & Development,7,Bachelor,Life Sciences,Married,14814,3,Better,5
+41,0,Human Resources,10,Master,Human Resources,Divorced,19141,3,Good,21
+60,0,Sales,16,Master,Marketing,Single,5405,8,Better,2
+27,0,Research & Development,10,College,Life Sciences,Divorced,8793,1,Good,9
+41,0,Human Resources,1,Bachelor,Human Resources,Married,19189,1,Better,22
+50,0,Sales,8,Master,Marketing,Married,3875,7,Better,2
+28,1,Research & Development,1,College,Life Sciences,Single,2216,7,Better,7
+36,0,Research & Development,8,Bachelor,Life Sciences,Married,11713,9,Better,8
+38,0,Research & Development,1,Bachelor,Life Sciences,Single,7861,4,Best,1
+44,0,Research & Development,24,Bachelor,Medical,Single,3708,2,Better,5
+47,0,Sales,3,Bachelor,Medical,Divorced,13770,9,Good,22
+30,0,Sales,27,Doctor,Marketing,Divorced,5304,7,Good,8
+29,0,Sales,10,Bachelor,Life Sciences,Single,2642,1,Better,1
+42,1,Research & Development,19,Bachelor,Medical,Divorced,2759,6,Better,2
+43,0,Sales,15,Bachelor,Life Sciences,Married,6804,3,Better,2
+34,0,Research & Development,8,College,Medical,Single,6142,3,Better,5
+23,0,Research & Development,9,Below College,Medical,Married,2500,1,Best,4
+39,0,Human Resources,3,Bachelor,Human Resources,Married,6389,9,Bad,8
+56,0,Research & Development,9,Bachelor,Medical,Married,11103,7,Good,10
+40,0,Research & Development,2,Below College,Medical,Single,2342,0,Good,4
+27,0,Research & Development,7,Bachelor,Medical,Single,6811,8,Bad,7
+29,0,Sales,10,Bachelor,Marketing,Divorced,2297,1,Better,2
+53,0,Research & Development,6,Bachelor,Life Sciences,Single,2450,2,Better,2
+35,0,Research & Development,2,Master,Life Sciences,Divorced,5093,2,Best,1
+32,0,Research & Development,24,Master,Life Sciences,Married,5309,1,Better,10
+38,0,Research & Development,2,Doctor,Medical,Married,3057,6,Bad,1
+34,0,Research & Development,8,Doctor,Life Sciences,Divorced,5121,3,Better,0
+52,0,Sales,3,Master,Marketing,Married,16856,1,Best,34
+33,1,Research & Development,1,Master,Other,Single,2686,1,Good,10
+25,0,Sales,26,Below College,Medical,Single,6180,1,Good,6
+45,0,Sales,2,College,Technical Degree,Single,6632,0,Better,8
+23,0,Research & Development,10,Below College,Medical,Single,3505,1,Better,2
+47,1,Sales,27,College,Life Sciences,Single,6397,4,Better,5
+34,0,Sales,2,Bachelor,Other,Single,6274,1,Better,6
+55,1,Research & Development,2,Bachelor,Medical,Married,19859,5,Better,5
+36,0,Sales,8,Master,Life Sciences,Single,7587,1,Better,10
+52,0,Research & Development,19,Master,Medical,Married,4258,0,Better,4
+26,0,Research & Development,1,College,Life Sciences,Divorced,4364,3,Better,2
+29,0,Research & Development,27,Bachelor,Medical,Married,4335,4,Good,8
+26,1,Sales,8,Bachelor,Technical Degree,Single,5326,6,Good,4
+34,0,Research & Development,1,Master,Life Sciences,Single,3280,2,Better,4
+54,0,Research & Development,19,Master,Medical,Divorced,5485,9,Better,5
+27,0,Sales,8,Below College,Marketing,Married,4342,0,Better,4
+37,0,Research & Development,10,Below College,Life Sciences,Divorced,2782,0,Good,5
+38,0,Research & Development,2,Master,Life Sciences,Single,5980,6,Better,15
+34,0,Research & Development,2,Master,Medical,Single,4381,1,Better,6
+35,0,Sales,8,Master,Life Sciences,Married,2572,1,Good,3
+30,0,Research & Development,1,Bachelor,Life Sciences,Married,3833,3,Better,2
+40,0,Research & Development,2,College,Medical,Married,4244,1,Better,8
+34,0,Sales,8,College,Life Sciences,Married,6500,5,Better,3
+42,0,Research & Development,8,Bachelor,Life Sciences,Divorced,18430,1,Good,24
+23,1,Research & Development,6,Bachelor,Life Sciences,Married,1601,1,Better,0
+24,0,Research & Development,9,Bachelor,Life Sciences,Divorced,2694,1,Better,1
+52,0,Research & Development,11,Master,Life Sciences,Married,3149,8,Better,5
+50,0,Research & Development,2,Bachelor,Medical,Married,17639,5,Better,4
+29,1,Research & Development,1,College,Life Sciences,Married,2319,1,Better,1
+33,0,Research & Development,7,Bachelor,Medical,Married,11691,0,Best,13
+33,1,Sales,16,Bachelor,Marketing,Single,5324,5,Better,3
+47,0,Research & Development,2,College,Other,Married,16752,1,Good,26
+36,0,Research & Development,1,Bachelor,Other,Married,5228,0,Better,9
+29,0,Research & Development,23,College,Life Sciences,Married,2700,1,Better,10
+58,1,Research & Development,2,Master,Life Sciences,Single,19246,7,Better,31
+35,0,Research & Development,1,Master,Life Sciences,Single,2506,3,Better,2
+42,0,Research & Development,1,College,Life Sciences,Married,6062,9,Better,4
+28,1,Research & Development,2,Master,Medical,Single,4382,6,Good,2
+36,0,Human Resources,13,Bachelor,Human Resources,Married,2143,4,Better,5
+32,0,Research & Development,4,Bachelor,Life Sciences,Married,6162,1,Better,14
+40,0,Research & Development,16,Master,Medical,Single,5094,6,Better,1
+30,0,Research & Development,2,Bachelor,Medical,Single,6877,5,Good,0
+45,0,Research & Development,2,Bachelor,Life Sciences,Single,2274,1,Better,1
+42,0,Research & Development,29,Bachelor,Life Sciences,Married,4434,1,Good,9
+38,0,Research & Development,12,Bachelor,Life Sciences,Divorced,6288,2,Good,4
+34,0,Research & Development,16,Master,Life Sciences,Single,2553,1,Better,5
+49,1,Sales,11,Bachelor,Marketing,Married,7654,1,Best,9
+55,1,Sales,2,Below College,Medical,Single,5160,4,Good,9
+43,0,Research & Development,14,College,Life Sciences,Married,17159,6,Better,4
+27,0,Research & Development,5,Below College,Technical Degree,Divorced,12808,1,Better,9
+35,0,Research & Development,7,Bachelor,Other,Single,10221,3,Best,8
+28,0,Sales,2,Master,Marketing,Married,4779,1,Better,8
+34,0,Human Resources,3,College,Human Resources,Married,3737,0,Bad,3
+26,1,Research & Development,5,College,Medical,Married,2366,1,Better,8
+27,0,Research & Development,3,Bachelor,Medical,Married,1706,1,Good,0
+51,0,Sales,26,Master,Marketing,Married,16307,2,Good,20
+44,0,Research & Development,4,Bachelor,Medical,Single,5933,9,Good,5
+25,0,Research & Development,2,Below College,Medical,Single,3424,7,Good,4
+33,0,Sales,1,Bachelor,Medical,Divorced,4037,1,Better,9
+35,0,Research & Development,27,Below College,Medical,Single,2559,1,Good,6
+36,0,Sales,1,College,Life Sciences,Married,6201,1,Good,18
+32,0,Sales,13,Master,Life Sciences,Divorced,4403,2,Good,5
+30,0,Research & Development,5,Master,Life Sciences,Divorced,3761,9,Good,5
+53,0,Sales,7,College,Marketing,Married,10934,7,Better,5
+45,0,Sales,9,Bachelor,Marketing,Divorced,10761,4,Better,5
+32,0,Research & Development,8,College,Medical,Married,5175,5,Good,5
+52,0,Research & Development,25,Master,Medical,Married,13826,3,Better,9
+37,0,Sales,16,Master,Marketing,Divorced,6334,4,Better,1
+28,0,Human Resources,8,College,Medical,Divorced,4936,1,Better,5
+22,0,Research & Development,1,College,Life Sciences,Married,4775,6,Bad,2
+44,0,Research & Development,8,Master,Life Sciences,Married,2818,2,Good,3
+42,0,Research & Development,2,Below College,Medical,Single,2515,5,Better,2
+36,0,Human Resources,8,Bachelor,Life Sciences,Married,2342,0,Better,5
+25,0,Sales,3,Below College,Other,Married,4194,1,Better,5
+35,0,Research & Development,9,Bachelor,Life Sciences,Married,10685,1,Better,17
+35,1,Research & Development,25,Master,Life Sciences,Divorced,2022,1,Good,10
+32,0,Research & Development,1,Bachelor,Life Sciences,Divorced,2314,0,Better,3
+25,0,Sales,4,Below College,Marketing,Married,4256,1,Best,5
+49,0,Research & Development,1,Bachelor,Technical Degree,Married,3580,2,Better,4
+24,0,Research & Development,4,Below College,Life Sciences,Married,3162,0,Good,5
+32,0,Sales,5,College,Life Sciences,Married,6524,1,Better,10
+38,0,Sales,9,Bachelor,Marketing,Married,2899,0,Better,2
+42,0,Research & Development,3,Bachelor,Life Sciences,Married,5231,2,Good,5
+31,0,Research & Development,11,Master,Life Sciences,Married,2356,3,Better,6
+29,1,Sales,1,Bachelor,Medical,Divorced,2800,6,Better,3
+53,0,Sales,8,Bachelor,Marketing,Married,11836,5,Better,2
+35,0,Research & Development,25,Bachelor,Technical Degree,Married,10903,3,Better,13
+37,0,Sales,21,College,Medical,Married,2973,5,Better,5
+53,0,Research & Development,23,Master,Life Sciences,Single,14275,6,Better,12
+43,0,Research & Development,1,Bachelor,Life Sciences,Married,5562,4,Good,5
+47,0,Sales,2,College,Marketing,Married,4537,0,Better,7
+37,0,Sales,19,College,Medical,Single,7642,1,Better,10
+50,0,Research & Development,2,Master,Life Sciences,Divorced,17924,1,Better,31
+39,0,Human Resources,2,Bachelor,Life Sciences,Married,5204,8,Better,5
+33,0,Human Resources,3,College,Human Resources,Divorced,2277,3,Best,4
+32,1,Research & Development,25,Master,Life Sciences,Single,2795,1,Bad,1
+29,0,Research & Development,7,Below College,Medical,Divorced,2532,6,Better,4
+44,0,Research & Development,9,College,Life Sciences,Married,2559,1,Better,8
+28,0,Sales,5,Master,Medical,Single,4908,1,Better,4
+58,1,Research & Development,2,Below College,Life Sciences,Divorced,2380,9,Good,1
+43,0,Research & Development,8,Bachelor,Life Sciences,Divorced,4765,4,Best,1
+20,1,Sales,2,Bachelor,Medical,Single,2044,1,Good,2
+21,1,Research & Development,18,Below College,Other,Single,2693,1,Good,1
+36,0,Research & Development,14,Below College,Life Sciences,Married,6586,0,Good,16
+47,0,Sales,2,Master,Life Sciences,Single,3294,1,Good,3
+22,1,Research & Development,3,Below College,Life Sciences,Married,4171,0,Best,3
+41,1,Research & Development,2,Master,Life Sciences,Divorced,2778,4,Good,7
+28,0,Research & Development,9,Bachelor,Medical,Divorced,2377,5,Better,2
+39,1,Research & Development,6,Bachelor,Medical,Married,2404,7,Bad,2
+27,0,Research & Development,4,Bachelor,Life Sciences,Single,2318,1,Better,1
+34,0,Research & Development,10,Bachelor,Life Sciences,Divorced,2008,1,Better,1
+42,0,Sales,14,College,Medical,Single,6244,7,Better,5
+33,0,Research & Development,1,Master,Other,Single,2799,3,Better,3
+58,0,Research & Development,5,Bachelor,Technical Degree,Divorced,10552,2,Better,6
+31,0,Sales,7,Master,Life Sciences,Married,2329,3,Best,7
+35,0,Research & Development,21,Below College,Life Sciences,Married,4014,1,Bad,10
+49,0,Research & Development,8,College,Other,Married,7403,4,Good,26
+48,0,Research & Development,20,Master,Medical,Married,2259,4,Good,0
+31,0,Sales,20,College,Marketing,Married,6932,1,Good,9
+36,0,Research & Development,7,Master,Other,Single,4678,2,Better,6
+38,0,Research & Development,1,Bachelor,Technical Degree,Married,13582,1,Better,15
+32,0,Research & Development,1,Bachelor,Life Sciences,Married,2332,6,Better,3
+25,1,Sales,19,College,Marketing,Married,2413,1,Better,1
+40,0,Sales,10,Master,Marketing,Divorced,9705,2,Good,1
+26,0,Sales,1,Bachelor,Medical,Single,4294,1,Better,7
+41,0,Research & Development,6,Bachelor,Medical,Single,4721,2,Better,18
+36,0,Research & Development,2,Master,Medical,Single,2519,4,Better,11
+19,1,Sales,21,Bachelor,Other,Single,2121,1,Best,1
+20,1,Research & Development,4,Bachelor,Technical Degree,Single,2973,1,Better,1
+31,0,Research & Development,12,Bachelor,Medical,Married,5855,0,Bad,9
+40,0,Research & Development,9,Master,Medical,Divorced,3617,8,Better,1
+32,0,Research & Development,3,Master,Medical,Married,6725,1,Best,8
+36,1,Sales,3,Below College,Life Sciences,Married,10325,1,Better,16
+33,0,Research & Development,1,Bachelor,Life Sciences,Single,6949,0,Better,5
+37,1,Sales,1,Master,Life Sciences,Married,10609,5,Bad,14
+45,0,Research & Development,4,College,Life Sciences,Married,4447,1,Good,9
+29,0,Sales,20,Bachelor,Technical Degree,Married,2157,1,Better,3
+35,0,Sales,18,Bachelor,Medical,Married,4601,1,Better,5
+52,0,Research & Development,1,College,Life Sciences,Married,17099,2,Good,9
+58,1,Research & Development,2,Bachelor,Technical Degree,Single,2479,4,Better,1
+53,0,Sales,2,College,Medical,Divorced,14852,6,Best,17
+30,0,Sales,8,College,Other,Divorced,7264,5,Best,8
+38,0,Sales,10,Bachelor,Technical Degree,Single,5666,1,Better,5
+35,0,Sales,3,Master,Life Sciences,Divorced,7823,6,Better,10
+39,0,Sales,2,Doctor,Life Sciences,Single,7880,0,Better,8
+40,1,Sales,24,Bachelor,Life Sciences,Single,13194,4,Good,1
+47,0,Research & Development,16,Master,Medical,Divorced,5067,1,Best,19
+36,0,Sales,8,Master,Technical Degree,Divorced,5079,4,Better,7
+31,1,Research & Development,9,College,Medical,Single,2321,0,Better,3
+33,0,Sales,17,Bachelor,Life Sciences,Single,17444,1,Better,10
+29,1,Research & Development,10,Bachelor,Life Sciences,Single,2404,6,Better,0
+33,0,Research & Development,13,Below College,Life Sciences,Single,3452,3,Better,3
+45,0,Research & Development,1,Master,Medical,Divorced,2270,3,Better,5
+50,0,Research & Development,1,College,Medical,Divorced,17399,9,Good,5
+33,0,Research & Development,1,Master,Other,Married,5488,1,Better,6
+41,0,Research & Development,9,Bachelor,Medical,Divorced,19419,2,Best,18
+27,0,Research & Development,16,Master,Technical Degree,Married,2811,9,Better,2
+45,0,Research & Development,23,College,Life Sciences,Married,3633,1,Better,9
+47,0,Sales,4,College,Life Sciences,Single,4163,1,Better,9
+30,1,Research & Development,22,Bachelor,Life Sciences,Married,2132,4,Better,5
+50,0,Research & Development,24,Bachelor,Life Sciences,Married,13973,3,Better,12
+38,0,Research & Development,10,Below College,Medical,Married,2684,0,Good,2
+46,0,Research & Development,7,College,Medical,Divorced,10845,6,Better,8
+24,0,Research & Development,17,Below College,Medical,Divorced,4377,1,Better,4
+35,1,Research & Development,14,Master,Other,Divorced,3743,1,Bad,4
+31,0,Research & Development,1,Below College,Life Sciences,Married,4148,1,Better,4
+18,0,Research & Development,5,College,Life Sciences,Single,1051,1,Better,0
+54,0,Research & Development,17,Bachelor,Technical Degree,Married,10739,8,Better,10
+35,0,Research & Development,25,Master,Medical,Divorced,10388,1,Good,16
+30,0,Research & Development,8,College,Life Sciences,Married,11416,0,Good,8
+20,1,Research & Development,11,Bachelor,Medical,Single,2600,1,Better,1
+30,1,Research & Development,5,Bachelor,Medical,Single,2422,0,Better,3
+26,0,Research & Development,2,College,Medical,Married,5472,1,Better,8
+22,0,Research & Development,8,Below College,Life Sciences,Married,2451,1,Good,4
+48,0,Research & Development,6,Bachelor,Life Sciences,Single,4240,2,Better,2
+48,0,Research & Development,4,Master,Life Sciences,Single,10999,7,Better,15
+41,0,Research & Development,7,College,Medical,Single,5003,6,Better,2
+39,0,Research & Development,1,Below College,Life Sciences,Married,12742,1,Better,21
+27,0,Research & Development,2,Master,Life Sciences,Married,4227,0,Better,3
+35,0,Research & Development,10,Bachelor,Other,Divorced,3917,1,Good,3
+42,0,Sales,5,College,Marketing,Married,18303,6,Best,1
+50,0,Research & Development,9,Bachelor,Life Sciences,Married,2380,4,Better,1
+59,0,Research & Development,2,Bachelor,Life Sciences,Single,13726,3,Better,5
+37,1,Research & Development,11,College,Medical,Married,4777,5,Bad,1
+55,0,Research & Development,18,Master,Medical,Married,6385,3,Better,8
+41,0,Research & Development,7,Below College,Life Sciences,Divorced,19973,1,Better,21
+38,0,Sales,3,Master,Life Sciences,Single,6861,8,Better,1
+26,1,Sales,29,College,Medical,Single,4969,8,Better,2
+52,1,Sales,2,Below College,Marketing,Married,19845,1,Better,32
+44,0,Sales,28,Bachelor,Medical,Married,13320,3,Better,12
+50,0,Sales,1,Bachelor,Life Sciences,Married,6347,0,Better,18
+36,1,Research & Development,16,Master,Life Sciences,Single,2743,1,Better,17
+39,0,Research & Development,22,Bachelor,Medical,Single,10880,1,Better,21
+33,0,Sales,8,Below College,Life Sciences,Single,2342,0,Good,2
+45,0,Sales,11,College,Life Sciences,Married,17650,3,Best,9
+32,0,Research & Development,29,Master,Medical,Single,4025,9,Better,8
+34,0,Sales,1,Master,Marketing,Divorced,9725,0,Good,15
+59,0,Sales,1,College,Technical Degree,Married,11904,3,Bad,6
+45,0,Human Resources,24,Master,Medical,Single,2177,1,Better,6
+53,0,Sales,2,Bachelor,Marketing,Married,7525,2,Better,15
+36,1,Research & Development,15,Bachelor,Other,Divorced,4834,7,Good,1
+26,1,Research & Development,2,Bachelor,Life Sciences,Married,2042,6,Better,3
+34,0,Sales,10,Master,Life Sciences,Married,2220,1,Better,1
+28,0,Sales,10,Below College,Medical,Married,1052,1,Better,1
+38,0,Research & Development,3,Master,Other,Married,2821,3,Better,2
+50,0,Research & Development,2,Master,Medical,Married,19237,2,Good,8
+37,0,Research & Development,3,Bachelor,Other,Single,4107,3,Good,4
+40,0,Sales,26,Bachelor,Marketing,Married,8396,1,Good,7
+26,0,Research & Development,1,Below College,Medical,Divorced,2007,1,Better,5
+46,0,Research & Development,1,Master,Medical,Divorced,19627,9,Better,2
+54,0,Sales,2,Master,Life Sciences,Married,10686,6,Better,9
+56,0,Research & Development,9,Bachelor,Medical,Married,2942,2,Better,5
+36,0,Research & Development,12,Doctor,Medical,Single,8858,0,Good,14
+55,0,Research & Development,2,Below College,Medical,Single,16756,7,Best,9
+43,0,Sales,25,Bachelor,Medical,Divorced,10798,5,Better,1
+20,1,Sales,9,Bachelor,Marketing,Single,2323,1,Better,2
+21,1,Research & Development,10,Bachelor,Life Sciences,Single,1416,1,Good,1
+46,0,Research & Development,8,Master,Life Sciences,Divorced,4615,8,Better,16
+51,1,Research & Development,4,Master,Life Sciences,Married,2461,9,Best,10
+28,1,Research & Development,24,College,Technical Degree,Single,8722,1,Good,10
+26,0,Research & Development,1,College,Medical,Married,3955,1,Better,5
+30,0,Research & Development,20,Bachelor,Other,Married,9957,0,Good,6
+41,0,Research & Development,7,College,Technical Degree,Married,3376,1,Better,10
+38,0,Research & Development,17,Below College,Life Sciences,Married,8823,0,Good,19
+40,0,Research & Development,20,Master,Technical Degree,Married,10322,4,Better,11
+27,0,Research & Development,8,Doctor,Life Sciences,Married,4621,1,Better,3
+55,0,Research & Development,2,Below College,Life Sciences,Married,10976,3,Better,3
+28,0,Research & Development,10,Bachelor,Other,Single,3660,3,Best,8
+44,1,Human Resources,1,College,Medical,Married,10482,9,Better,20
+33,0,Research & Development,5,Bachelor,Life Sciences,Divorced,7119,4,Better,3
+35,1,Sales,4,Bachelor,Technical Degree,Single,9582,0,Better,8
+33,1,Research & Development,29,Master,Medical,Single,4508,1,Better,13
+28,0,Research & Development,15,College,Life Sciences,Divorced,2207,1,Good,4
+34,0,Research & Development,3,Below College,Life Sciences,Single,7756,0,Good,6
+37,0,Sales,10,Master,Life Sciences,Divorced,6694,2,Better,1
+25,1,Research & Development,4,Below College,Technical Degree,Married,3691,1,Best,7
+26,1,Research & Development,21,Bachelor,Medical,Divorced,2377,1,Good,1
+33,1,Research & Development,25,Bachelor,Medical,Single,2313,4,Better,2
+42,0,Research & Development,2,College,Medical,Married,17665,0,Better,22
+28,1,Research & Development,1,Bachelor,Medical,Divorced,2596,1,Better,1
+50,1,Sales,1,Master,Other,Single,4728,3,Better,0
+33,0,Sales,7,Bachelor,Life Sciences,Married,4302,0,Better,3
+34,0,Research & Development,3,Master,Life Sciences,Married,2979,3,Better,0
+48,0,Research & Development,1,Master,Medical,Single,16885,2,Good,5
+45,0,Sales,9,Master,Life Sciences,Married,5593,1,Better,15
+52,0,Research & Development,7,Master,Life Sciences,Single,10445,7,Better,8
+38,0,Sales,10,Master,Marketing,Divorced,8740,0,Better,8
+29,0,Research & Development,28,Master,Life Sciences,Divorced,2514,4,Better,7
+28,0,Research & Development,3,Bachelor,Medical,Divorced,7655,0,Good,9
+46,0,Sales,3,Below College,Marketing,Married,17465,3,Better,12
+38,0,Sales,2,College,Marketing,Single,7351,7,Better,1
+43,0,Research & Development,27,Bachelor,Life Sciences,Married,10820,8,Better,8
+39,1,Research & Development,2,Bachelor,Life Sciences,Divorced,12169,7,Better,18
+40,0,Research & Development,14,Bachelor,Medical,Single,19626,1,Best,20
+21,0,Research & Development,1,Below College,Technical Degree,Single,2070,1,Best,2
+39,0,Research & Development,9,Bachelor,Life Sciences,Single,6782,9,Good,5
+36,0,Research & Development,18,Master,Life Sciences,Single,7779,2,Better,11
+31,0,Sales,20,Bachelor,Life Sciences,Married,2791,0,Better,2
+28,0,Research & Development,2,Below College,Life Sciences,Married,3201,0,Bad,5
+35,0,Sales,11,College,Marketing,Divorced,4968,1,Better,5
+49,0,Sales,8,Master,Technical Degree,Married,13120,6,Better,9
+34,0,Research & Development,2,College,Life Sciences,Single,4033,2,Good,3
+29,0,Research & Development,10,Bachelor,Life Sciences,Divorced,3291,0,Good,7
+42,0,Research & Development,29,Bachelor,Medical,Single,4272,4,Better,1
+29,0,Research & Development,8,Below College,Medical,Married,5056,1,Good,10
+38,0,Human Resources,1,Bachelor,Human Resources,Married,2844,1,Best,7
+28,0,Research & Development,6,Bachelor,Life Sciences,Divorced,2703,1,Better,3
+18,1,Research & Development,8,Below College,Medical,Single,1904,1,Better,0
+33,1,Sales,9,Master,Marketing,Single,8224,0,Better,5
+41,0,Research & Development,12,Master,Life Sciences,Married,4766,3,Better,1
+31,1,Research & Development,15,Bachelor,Medical,Married,2610,1,Good,2
+37,0,Research & Development,25,College,Medical,Divorced,5731,7,Better,6
+27,0,Research & Development,6,Bachelor,Life Sciences,Married,2539,1,Better,4
+34,0,Sales,9,Below College,Life Sciences,Married,5714,1,Good,6
+35,0,Human Resources,8,Master,Technical Degree,Single,4323,1,Bad,5
+29,1,Sales,23,Below College,Life Sciences,Married,7336,1,Bad,11
+40,0,Research & Development,9,Master,Medical,Single,13499,9,Good,18
+42,1,Sales,12,Bachelor,Life Sciences,Single,13758,0,Good,21
+42,0,Sales,4,Master,Marketing,Single,5155,7,Best,6
+35,0,Research & Development,1,Master,Medical,Married,2258,6,Better,8
+24,0,Research & Development,24,Bachelor,Medical,Single,3597,8,Better,4
+28,1,Research & Development,12,Below College,Life Sciences,Married,2515,1,Good,1
+26,0,Research & Development,3,Master,Medical,Married,4420,1,Better,8
+30,0,Sales,10,Bachelor,Marketing,Married,6578,1,Better,10
+40,0,Research & Development,26,College,Medical,Married,4422,3,Bad,1
+35,0,Research & Development,2,Bachelor,Life Sciences,Divorced,10274,2,Best,7
+34,0,Research & Development,1,Bachelor,Medical,Single,5343,0,Better,13
+35,0,Research & Development,4,Master,Other,Married,2376,1,Best,2
+43,1,Sales,9,Bachelor,Marketing,Single,5346,8,Good,4
+32,0,Sales,2,Below College,Life Sciences,Divorced,2827,1,Better,1
+56,0,Research & Development,4,Master,Technical Degree,Divorced,19943,4,Better,5
+29,0,Research & Development,6,Below College,Medical,Married,3131,1,Better,10
+19,0,Research & Development,9,College,Life Sciences,Single,2552,1,Better,1
+45,0,Research & Development,7,Bachelor,Medical,Married,4477,4,Good,3
+37,0,Research & Development,1,Bachelor,Life Sciences,Married,6474,1,Good,14
+20,0,Research & Development,3,Bachelor,Life Sciences,Single,3033,1,Good,2
+44,1,Research & Development,10,Master,Life Sciences,Single,2936,1,Better,6
+53,0,Research & Development,7,College,Medical,Divorced,18606,3,Better,7
+29,0,Research & Development,15,Below College,Life Sciences,Married,2168,0,Good,5
+22,1,Research & Development,3,Master,Life Sciences,Married,2853,0,Better,0
+46,0,Sales,2,Bachelor,Marketing,Married,17048,8,Better,26
+44,0,Research & Development,17,Bachelor,Life Sciences,Single,2290,2,Better,0
+33,0,Human Resources,2,Bachelor,Human Resources,Married,3600,1,Better,5
+41,1,Research & Development,5,College,Life Sciences,Divorced,2107,6,Bad,1
+30,0,Sales,29,Master,Life Sciences,Divorced,4115,8,Better,4
+40,0,Sales,2,Master,Medical,Married,4327,5,Better,0
+50,0,Research & Development,2,Bachelor,Medical,Married,17856,2,Better,2
+28,0,Research & Development,19,Master,Medical,Married,3196,1,Better,6
+46,0,Research & Development,15,College,Life Sciences,Married,19081,5,Better,4
+35,0,Sales,17,Master,Life Sciences,Married,8966,3,Better,7
+24,1,Research & Development,17,College,Life Sciences,Married,2210,1,Bad,1
+33,0,Sales,25,Bachelor,Medical,Married,4539,1,Good,10
+36,0,Research & Development,6,Master,Life Sciences,Divorced,2741,1,Better,7
+30,0,Research & Development,7,Master,Life Sciences,Divorced,3491,1,Good,10
+44,0,Research & Development,29,Master,Other,Single,4541,1,Better,20
+20,0,Sales,21,Bachelor,Marketing,Single,2678,1,Better,2
+46,0,Research & Development,2,Master,Technical Degree,Divorced,7379,2,Good,6
+42,0,Human Resources,2,Doctor,Medical,Married,6272,7,Best,4
+60,0,Sales,7,Master,Marketing,Divorced,5220,0,Better,11
+32,0,Research & Development,13,Bachelor,Other,Married,2743,1,Better,2
+32,0,Research & Development,2,College,Life Sciences,Single,4998,4,Better,8
+36,0,Research & Development,1,Bachelor,Technical Degree,Divorced,10252,2,Better,7
+33,0,Research & Development,9,Bachelor,Medical,Married,2781,0,Better,14
+40,0,Sales,10,Bachelor,Technical Degree,Divorced,6852,7,Best,5
+25,0,Sales,10,Master,Life Sciences,Single,4950,0,Better,4
+30,0,Research & Development,1,Bachelor,Medical,Married,3579,0,Better,11
+42,0,Research & Development,26,Doctor,Medical,Married,13191,3,Better,1
+35,0,Sales,8,College,Marketing,Married,10377,4,Good,13
+27,0,Research & Development,14,Bachelor,Life Sciences,Married,2235,1,Good,9
+54,0,Research & Development,1,Master,Life Sciences,Divorced,10502,7,Bad,5
+44,0,Research & Development,2,Below College,Life Sciences,Married,2011,1,Better,10
+19,1,Research & Development,10,Bachelor,Medical,Single,1859,1,Best,1
+29,0,Research & Development,1,Bachelor,Life Sciences,Divorced,3760,1,Better,3
+54,0,Research & Development,3,Bachelor,Life Sciences,Married,17779,3,Better,10
+31,0,Research & Development,11,College,Medical,Married,6833,1,Good,6
+31,0,Research & Development,24,Bachelor,Medical,Single,6812,1,Better,10
+59,0,Sales,3,Bachelor,Life Sciences,Single,5171,5,Better,6
+43,0,Research & Development,3,Bachelor,Life Sciences,Married,19740,3,Better,8
+49,0,Research & Development,4,College,Medical,Married,18711,2,Best,1
+36,0,Research & Development,3,Bachelor,Technical Degree,Married,3692,1,Good,11
+48,0,Research & Development,2,College,Technical Degree,Single,2559,5,Good,1
+27,0,Research & Development,4,College,Life Sciences,Divorced,2517,1,Better,5
+29,0,Research & Development,7,Bachelor,Life Sciences,Divorced,6623,1,Better,6
+48,0,Research & Development,1,Bachelor,Life Sciences,Single,18265,6,Best,1
+29,0,Research & Development,1,Bachelor,Life Sciences,Divorced,16124,3,Good,7
+34,0,Research & Development,20,Bachelor,Technical Degree,Married,2585,0,Good,1
+44,0,Sales,5,Bachelor,Marketing,Married,18213,7,Better,22
+33,0,Sales,10,Doctor,Marketing,Divorced,8380,0,Better,9
+19,0,Research & Development,25,Bachelor,Life Sciences,Single,2994,1,Better,1
+23,0,Research & Development,1,College,Life Sciences,Married,1223,1,Better,1
+25,1,Sales,24,Below College,Life Sciences,Single,1118,1,Better,1
+26,0,Research & Development,4,College,Life Sciences,Single,2875,1,Good,8
+45,1,Sales,2,Bachelor,Marketing,Single,18824,2,Better,24
+55,0,Research & Development,8,Below College,Medical,Divorced,13577,1,Better,33
+21,1,Research & Development,10,College,Life Sciences,Single,2625,1,Bad,2
+46,0,Sales,4,College,Marketing,Married,18789,2,Better,11
+34,0,Sales,2,Bachelor,Marketing,Single,4538,0,Better,3
+51,0,Sales,9,Bachelor,Life Sciences,Divorced,19847,4,Good,29
+59,0,Research & Development,18,Master,Medical,Single,10512,6,Good,9
+34,0,Research & Development,19,Bachelor,Medical,Divorced,4444,4,Best,11
+28,0,Research & Development,1,Master,Medical,Single,2154,0,Good,4
+44,0,Research & Development,4,College,Life Sciences,Divorced,19190,1,Good,25
+34,0,Human Resources,11,Bachelor,Life Sciences,Married,4490,4,Best,10
+35,0,Research & Development,6,Below College,Life Sciences,Married,3506,0,Better,3
+42,0,Research & Development,7,Master,Medical,Married,2372,6,Better,1
+43,0,Sales,4,Master,Marketing,Single,10231,3,Best,21
+36,0,Research & Development,2,Master,Life Sciences,Single,5410,9,Better,16
+44,1,Research & Development,15,Bachelor,Medical,Married,7978,1,Better,10
+28,0,Research & Development,2,Bachelor,Life Sciences,Married,3867,1,Better,2
+51,0,Research & Development,6,College,Medical,Single,2838,0,Good,7
+30,0,Research & Development,9,College,Medical,Single,4695,7,Better,8
+29,1,Research & Development,7,Bachelor,Technical Degree,Divorced,3339,3,Better,7
+28,0,Research & Development,1,Bachelor,Technical Degree,Single,2080,2,Good,3
+25,0,Research & Development,1,Bachelor,Medical,Single,2096,1,Good,2
+32,0,Sales,8,Bachelor,Medical,Married,6209,1,Best,10
+45,0,Research & Development,25,Bachelor,Medical,Single,18061,3,Better,0
+39,0,Research & Development,13,Master,Medical,Divorced,17123,6,Better,19
+58,0,Research & Development,23,Master,Life Sciences,Divorced,2372,1,Better,2
+32,1,Research & Development,7,College,Life Sciences,Married,4883,1,Better,10
+39,1,Research & Development,23,Bachelor,Medical,Single,3904,0,Better,5
+30,0,Research & Development,6,Bachelor,Technical Degree,Married,4627,0,Better,9
+36,0,Research & Development,10,Master,Technical Degree,Married,7094,3,Better,7
+46,0,Human Resources,1,College,Life Sciences,Single,3423,6,Best,7
+28,0,Research & Development,1,Bachelor,Life Sciences,Married,6674,0,Better,9
+50,0,Research & Development,28,Bachelor,Life Sciences,Married,16880,4,Better,3
+40,1,Sales,25,Master,Marketing,Single,9094,2,Better,5
+52,1,Sales,5,Bachelor,Life Sciences,Single,8446,9,Good,8
+30,0,Research & Development,17,Master,Medical,Married,11916,1,Better,9
+39,0,Research & Development,18,College,Life Sciences,Single,4534,0,Better,8
+31,0,Sales,2,Master,Life Sciences,Divorced,9852,1,Good,10
+41,0,Sales,10,College,Medical,Single,6151,1,Better,19
+31,1,Sales,1,Bachelor,Life Sciences,Single,2302,1,Best,3
+44,1,Research & Development,3,Bachelor,Life Sciences,Married,2362,4,Best,3
+42,0,Research & Development,2,Below College,Life Sciences,Married,17861,0,Good,20
+55,0,Research & Development,2,College,Medical,Married,19187,4,Better,19
+56,0,Human Resources,8,Master,Life Sciences,Single,19717,6,Better,7
+40,0,Research & Development,16,College,Life Sciences,Divorced,3544,9,Better,4
+34,0,Research & Development,9,Bachelor,Life Sciences,Divorced,8500,0,Good,9
+40,0,Research & Development,2,Bachelor,Life Sciences,Single,4661,1,Better,9
+41,0,Sales,1,Bachelor,Marketing,Divorced,4103,0,Better,9
+35,0,Research & Development,4,Master,Life Sciences,Single,4249,1,Better,9
+51,0,Human Resources,5,Bachelor,Life Sciences,Divorced,14026,1,Better,33
+38,0,Sales,2,College,Life Sciences,Divorced,6893,3,Better,7
+34,0,Sales,15,College,Medical,Single,6125,1,Best,10
+25,0,Research & Development,19,Below College,Medical,Married,3669,3,Good,3
+58,1,Research & Development,7,Master,Medical,Married,10008,7,Good,10
+40,0,Research & Development,1,Master,Life Sciences,Married,2387,3,Better,4
+36,0,Sales,7,Bachelor,Marketing,Married,4639,2,Good,15
+48,0,Research & Development,4,Bachelor,Life Sciences,Single,7898,1,Better,10
+27,0,Sales,11,Bachelor,Medical,Married,2534,8,Better,1
+51,0,Research & Development,11,College,Technical Degree,Single,13142,3,Good,5
+18,0,Research & Development,1,Bachelor,Life Sciences,Single,1611,1,Best,0
+35,0,Research & Development,1,Bachelor,Medical,Married,5363,0,Better,9
+27,0,Sales,2,Below College,Life Sciences,Single,5071,3,Better,6
+55,1,Sales,13,Master,Marketing,Single,13695,6,Good,19
+56,0,Research & Development,23,Bachelor,Life Sciences,Married,13402,4,Better,19
+34,0,Research & Development,26,Below College,Technical Degree,Divorced,2029,1,Better,5
+40,0,Research & Development,2,Below College,Medical,Divorced,6377,5,Better,12
+34,0,Research & Development,29,Bachelor,Medical,Married,5429,4,Better,8
+31,1,Sales,2,Bachelor,Life Sciences,Single,2785,7,Best,1
+35,1,Sales,18,Master,Marketing,Married,4614,0,Good,4
+38,0,Research & Development,7,Bachelor,Life Sciences,Divorced,2610,1,Better,4
+34,0,Research & Development,2,Master,Technical Degree,Single,6687,1,Best,14
+28,0,Sales,26,Bachelor,Life Sciences,Married,4724,1,Better,5
+31,1,Research & Development,22,Master,Medical,Married,6179,1,Good,10
+39,0,Sales,21,Master,Life Sciences,Married,6120,3,Best,5
+51,0,Sales,2,Bachelor,Marketing,Married,10596,2,Better,4
+41,0,Research & Development,22,Bachelor,Life Sciences,Divorced,5467,3,Good,6
+37,0,Research & Development,4,Below College,Life Sciences,Married,2996,7,Better,6
+33,0,Sales,5,Below College,Life Sciences,Married,9998,6,Best,5
+32,0,Sales,2,Below College,Marketing,Married,4078,0,Good,3
+39,0,Research & Development,25,College,Life Sciences,Married,10920,3,Better,6
+25,0,Sales,18,Below College,Life Sciences,Married,6232,2,Good,3
+52,0,Research & Development,28,College,Medical,Married,13247,2,Good,5
+43,0,Research & Development,6,Bachelor,Medical,Single,4081,1,Bad,20
+27,0,Sales,10,Bachelor,Marketing,Married,5769,1,Better,6
+27,1,Research & Development,17,Master,Life Sciences,Single,2394,1,Better,8
+26,0,Research & Development,2,Below College,Medical,Single,3904,0,Better,4
+42,0,Human Resources,10,Bachelor,Human Resources,Married,16799,0,Better,20
+52,0,Research & Development,8,Master,Other,Married,2950,9,Bad,5
+37,0,Research & Development,11,Bachelor,Medical,Single,3629,4,Better,3
+35,0,Research & Development,18,College,Life Sciences,Single,9362,2,Better,2
+25,0,Research & Development,1,Bachelor,Technical Degree,Married,3229,4,Good,3
+26,0,Research & Development,7,Bachelor,Other,Single,3578,0,Better,7
+29,0,Human Resources,17,Bachelor,Other,Single,7988,1,Good,10
+49,1,Research & Development,28,College,Life Sciences,Single,4284,3,Better,4
+29,1,Research & Development,14,Below College,Other,Single,7553,0,Better,8
+54,0,Research & Development,1,Bachelor,Medical,Single,17328,6,Good,20
+58,0,Research & Development,1,Bachelor,Medical,Married,19701,3,Better,9
+55,0,Research & Development,1,Master,Medical,Divorced,14732,2,Best,7
+36,0,Sales,3,Master,Marketing,Single,9278,3,Better,5
+31,1,Sales,1,Master,Life Sciences,Single,1359,1,Better,1
+30,0,Sales,7,Master,Marketing,Divorced,4779,7,Better,3
+31,0,Research & Development,8,Doctor,Life Sciences,Single,16422,3,Best,3
+34,0,Research & Development,1,Master,Other,Divorced,2996,5,Better,4
+31,1,Research & Development,8,Bachelor,Life Sciences,Single,1261,1,Best,1
+27,0,Research & Development,11,Below College,Life Sciences,Married,2099,0,Best,5
+36,0,Research & Development,4,Master,Life Sciences,Single,5810,1,Good,10
+36,0,Sales,16,Master,Marketing,Married,5647,4,Good,3
+47,0,Research & Development,1,Bachelor,Technical Degree,Married,3420,7,Good,6
+25,1,Sales,9,College,Life Sciences,Married,4400,3,Better,3
+37,0,Research & Development,5,College,Technical Degree,Single,3500,0,Bad,6
+56,0,Research & Development,1,College,Life Sciences,Married,2066,2,Best,3
+47,0,Research & Development,2,Master,Medical,Married,17169,3,Best,20
+24,0,Sales,4,Below College,Medical,Married,4162,1,Better,5
+32,0,Sales,7,Doctor,Marketing,Married,9204,4,Good,4
+34,0,Research & Development,1,Bachelor,Life Sciences,Married,3294,5,Good,5
+41,0,Research & Development,5,Doctor,Medical,Married,2127,2,Good,4
+40,0,Research & Development,9,Master,Other,Divorced,3975,3,Best,8
+31,0,Sales,8,College,Life Sciences,Divorced,10793,1,Better,13
+46,1,Sales,9,Bachelor,Marketing,Divorced,10096,4,Best,7
+39,1,Research & Development,2,Bachelor,Life Sciences,Single,3646,2,Best,1
+31,1,Research & Development,1,Doctor,Life Sciences,Single,7446,1,Better,10
+45,0,Research & Development,20,Bachelor,Medical,Divorced,10851,2,Better,7
+31,0,Human Resources,8,College,Medical,Single,2109,9,Better,3
+31,1,Research & Development,2,Bachelor,Life Sciences,Married,3722,6,Bad,2
+45,0,Research & Development,29,Bachelor,Technical Degree,Married,9380,4,Best,3
+48,0,Sales,7,Bachelor,Marketing,Divorced,5486,4,Better,2
+34,1,Human Resources,9,Master,Technical Degree,Married,2742,1,Better,2
+40,0,Research & Development,8,Below College,Medical,Divorced,13757,2,Better,9
+28,0,Sales,5,Bachelor,Medical,Single,8463,0,Better,5
+44,0,Research & Development,5,Bachelor,Life Sciences,Single,3162,3,Better,5
+53,0,Research & Development,2,Bachelor,Medical,Single,16598,4,Good,9
+49,0,Research & Development,5,Master,Technical Degree,Married,6651,2,Good,3
+40,0,Research & Development,2,Bachelor,Medical,Divorced,2345,2,Best,3
+44,0,Research & Development,20,Bachelor,Life Sciences,Single,3420,1,Good,5
+33,0,Sales,7,Bachelor,Medical,Married,4373,0,Better,4
+34,0,Sales,3,Bachelor,Other,Single,4759,3,Better,13
+30,0,Sales,16,Below College,Life Sciences,Married,5301,8,Good,2
+42,0,Research & Development,9,College,Medical,Single,3673,1,Better,12
+44,0,Sales,1,Doctor,Marketing,Married,4768,7,Good,1
+30,0,Research & Development,7,Bachelor,Technical Degree,Divorced,1274,1,Good,1
+57,0,Research & Development,1,College,Life Sciences,Married,4900,0,Good,12
+49,0,Research & Development,7,Master,Life Sciences,Divorced,10466,3,Better,8
+34,0,Research & Development,15,Bachelor,Medical,Divorced,17007,7,Good,14
+28,1,Sales,1,Bachelor,Technical Degree,Married,2909,3,Best,3
+29,1,Sales,13,Bachelor,Technical Degree,Single,5765,5,Bad,5
+34,1,Sales,24,Master,Medical,Single,4599,0,Best,15
+35,0,Sales,7,Below College,Life Sciences,Married,2404,1,Better,1
+24,1,Research & Development,9,Bachelor,Medical,Single,3172,2,Good,0
+24,0,Sales,13,College,Life Sciences,Married,2033,1,Better,1
+44,0,Research & Development,2,Below College,Medical,Single,10209,5,Good,2
+29,0,Sales,19,Bachelor,Life Sciences,Divorced,8620,1,Better,10
+30,0,Human Resources,1,Bachelor,Life Sciences,Divorced,2064,0,Best,5
+55,0,Research & Development,4,Master,Life Sciences,Married,4035,0,Better,3
+33,0,Research & Development,4,Master,Medical,Married,3838,8,Better,5
+47,0,Sales,14,Bachelor,Medical,Married,4591,3,Good,5
+28,1,Research & Development,2,College,Medical,Single,2561,7,Good,0
+28,0,Research & Development,1,Bachelor,Life Sciences,Divorced,1563,1,Bad,1
+28,0,Sales,7,Bachelor,Life Sciences,Single,4898,0,Better,4
+49,0,Research & Development,3,College,Medical,Married,4789,4,Better,3
+29,0,Research & Development,2,Below College,Life Sciences,Married,3180,0,Better,3
+28,0,Research & Development,29,Below College,Life Sciences,Married,6549,1,Good,8
+33,0,Research & Development,8,Doctor,Life Sciences,Single,6388,2,Better,0
+32,0,Research & Development,10,Bachelor,Medical,Single,11244,2,Best,5
+54,0,Research & Development,11,Master,Medical,Divorced,16032,3,Better,14
+29,1,Research & Development,1,Master,Technical Degree,Single,2362,6,Bad,9
+44,0,Research & Development,28,Bachelor,Life Sciences,Married,16328,3,Best,20
+39,0,Research & Development,6,Bachelor,Life Sciences,Single,8376,4,Better,2
+46,0,Sales,3,Bachelor,Life Sciences,Married,16606,8,Best,13
+35,0,Research & Development,16,Bachelor,Life Sciences,Single,8606,1,Bad,11
+23,0,Research & Development,20,Below College,Life Sciences,Single,2272,0,Better,4
+40,1,Research & Development,9,Master,Life Sciences,Single,2018,3,Bad,5
+34,0,Sales,1,Bachelor,Technical Degree,Married,7083,1,Better,10
+31,1,Research & Development,3,Bachelor,Life Sciences,Single,4084,1,Bad,7
+50,0,Research & Development,22,Doctor,Medical,Single,14411,1,Better,32
+34,0,Sales,7,College,Technical Degree,Married,2308,0,Better,11
+42,0,Research & Development,2,Bachelor,Medical,Married,4841,4,Better,1
+37,0,Research & Development,13,Bachelor,Medical,Married,4285,1,Better,10
+29,0,Research & Development,8,Below College,Other,Married,9715,3,Better,7
+33,0,Research & Development,25,Bachelor,Life Sciences,Single,4320,1,Better,5
+45,0,Research & Development,28,Bachelor,Technical Degree,Married,2132,4,Better,5
+42,0,Research & Development,2,Bachelor,Life Sciences,Married,10124,2,Bad,20
+40,0,Sales,9,College,Medical,Married,5473,0,Best,8
+33,0,Research & Development,28,Master,Life Sciences,Married,5207,1,Better,15
+40,0,Human Resources,6,College,Medical,Single,16437,1,Better,21
+24,0,Research & Development,21,College,Technical Degree,Divorced,2296,0,Better,1
+40,0,Research & Development,8,College,Life Sciences,Divorced,4069,3,Better,2
+45,0,Research & Development,1,Master,Technical Degree,Divorced,7441,1,Better,10
+35,0,Sales,28,Master,Life Sciences,Married,2430,0,Better,5
+32,0,Research & Development,5,College,Life Sciences,Married,5878,3,Better,7
+36,0,Sales,2,Master,Life Sciences,Single,2644,3,Good,3
+48,0,Sales,16,Master,Life Sciences,Divorced,6439,8,Better,8
+29,0,Research & Development,9,Bachelor,Life Sciences,Married,2451,6,Good,1
+33,0,Sales,8,Master,Life Sciences,Married,6392,2,Bad,2
+30,1,Sales,1,Bachelor,Life Sciences,Married,9714,1,Better,10
+38,0,Human Resources,10,Master,Human Resources,Married,6077,3,Better,6
+35,0,Research & Development,1,Bachelor,Medical,Single,2450,1,Better,3
+30,0,Sales,29,Master,Technical Degree,Married,9250,3,Better,4
+35,1,Research & Development,2,Bachelor,Life Sciences,Divorced,2074,1,Better,1
+53,1,Research & Development,2,Doctor,Technical Degree,Married,10169,0,Better,33
+38,1,Research & Development,2,Bachelor,Medical,Married,4855,4,Better,5
+32,0,Research & Development,1,Master,Technical Degree,Married,4087,4,Good,6
+48,0,Research & Development,15,Master,Other,Married,2367,8,Good,8
+34,0,Research & Development,7,Master,Medical,Single,2972,1,Bad,1
+55,0,Sales,26,Doctor,Marketing,Married,19586,1,Better,36
+34,0,Research & Development,1,Master,Life Sciences,Married,5484,9,Good,2
+26,0,Research & Development,3,Bachelor,Life Sciences,Married,2061,1,Better,1
+38,0,Sales,14,Bachelor,Life Sciences,Married,9924,0,Better,9
+38,0,Sales,16,Bachelor,Life Sciences,Single,4198,2,Best,3
+36,0,Sales,1,Master,Life Sciences,Single,6815,6,Better,1
+29,0,Research & Development,3,Below College,Medical,Single,4723,1,Better,10
+35,0,Research & Development,10,Master,Medical,Single,6142,3,Better,5
+39,0,Sales,6,Bachelor,Medical,Married,8237,2,Better,7
+29,0,Research & Development,2,Below College,Life Sciences,Divorced,8853,1,Best,6
+50,0,Sales,9,Bachelor,Marketing,Married,19331,4,Better,1
+23,0,Research & Development,10,Bachelor,Technical Degree,Married,2073,2,Better,2
+36,0,Research & Development,6,Master,Life Sciences,Married,5562,3,Better,3
+42,0,Research & Development,9,College,Other,Single,19613,8,Better,1
+35,0,Research & Development,28,Bachelor,Life Sciences,Married,3407,1,Good,10
+34,0,Research & Development,10,Master,Technical Degree,Married,5063,1,Good,8
+40,0,Sales,14,College,Life Sciences,Married,4639,1,Better,5
+43,0,Research & Development,27,Bachelor,Technical Degree,Divorced,4876,5,Better,6
+35,0,Research & Development,7,College,Life Sciences,Married,2690,1,Good,1
+46,0,Sales,1,Master,Life Sciences,Single,17567,1,Bad,26
+28,1,Research & Development,24,Bachelor,Medical,Married,2408,1,Better,1
+22,0,Research & Development,26,College,Other,Married,2814,1,Good,4
+50,0,Research & Development,20,Doctor,Medical,Married,11245,2,Better,30
+32,0,Research & Development,5,Master,Other,Married,3312,3,Better,3
+44,0,Research & Development,7,Bachelor,Medical,Divorced,19049,0,Good,22
+30,0,Research & Development,7,Bachelor,Medical,Married,2141,1,Good,6
+45,0,Research & Development,5,Doctor,Medical,Single,5769,1,Better,10
+45,0,Sales,26,Bachelor,Marketing,Married,4385,1,Better,10
+31,0,Sales,2,Master,Other,Single,5332,7,Better,5
+36,0,Research & Development,12,Master,Life Sciences,Married,4663,9,Better,3
+34,0,Research & Development,10,Master,Life Sciences,Divorced,4724,1,Better,9
+49,0,Research & Development,25,Master,Life Sciences,Married,3211,1,Good,9
+39,0,Research & Development,10,Doctor,Medical,Married,5377,2,Better,7
+27,0,Research & Development,19,Bachelor,Other,Divorced,4066,1,Better,7
+35,0,Research & Development,18,Doctor,Life Sciences,Married,5208,1,Better,16
+28,0,Research & Development,27,Bachelor,Medical,Divorced,4877,0,Good,5
+21,0,Research & Development,5,Below College,Medical,Single,3117,1,Better,2
+18,1,Sales,3,College,Medical,Single,1569,1,Best,0
+47,0,Human Resources,26,Master,Life Sciences,Married,19658,3,Better,5
+39,0,Research & Development,3,College,Medical,Divorced,3069,0,Better,10
+40,0,Research & Development,15,Bachelor,Life Sciences,Married,10435,1,Better,18
+35,0,Research & Development,8,Master,Life Sciences,Married,4148,1,Better,14
+37,0,Research & Development,19,Bachelor,Life Sciences,Married,5768,3,Good,4
+39,0,Research & Development,4,Bachelor,Medical,Single,5042,0,Bad,9
+45,0,Research & Development,2,College,Other,Divorced,5770,1,Better,10
+38,0,Research & Development,2,College,Medical,Married,7756,3,Best,5
+35,1,Sales,10,Bachelor,Medical,Married,10306,9,Better,13
+37,0,Research & Development,10,Bachelor,Medical,Married,3936,1,Bad,8
+40,0,Research & Development,16,Bachelor,Life Sciences,Single,7945,6,Good,4
+44,0,Human Resources,1,Doctor,Human Resources,Married,5743,4,Better,10
+48,0,Research & Development,4,Doctor,Medical,Married,15202,2,Better,2
+35,1,Sales,15,College,Medical,Divorced,5440,6,Good,2
+24,0,Research & Development,2,Below College,Technical Degree,Single,3760,1,Better,6
+27,0,Research & Development,8,Bachelor,Medical,Married,3517,7,Better,3
+27,0,Research & Development,2,Bachelor,Medical,Single,2580,2,Good,4
+40,1,Research & Development,7,Bachelor,Life Sciences,Single,2166,3,Bad,4
+29,0,Sales,10,Bachelor,Medical,Single,5869,9,Better,5
+36,0,Research & Development,5,Master,Life Sciences,Married,8008,4,Better,3
+25,0,Research & Development,2,Below College,Life Sciences,Divorced,5206,1,Better,7
+39,0,Research & Development,12,Bachelor,Medical,Married,5295,4,Better,5
+49,0,Research & Development,22,Master,Other,Married,16413,3,Better,4
+50,0,Research & Development,17,Doctor,Life Sciences,Divorced,13269,5,Better,14
+20,0,Sales,2,Bachelor,Medical,Single,2783,1,Better,2
+34,0,Research & Development,3,Bachelor,Life Sciences,Divorced,5433,1,Better,11
+36,0,Research & Development,7,Bachelor,Life Sciences,Single,2013,2,Better,4
+49,0,Research & Development,6,Below College,Life Sciences,Married,13966,2,Better,15
+36,0,Research & Development,1,Master,Medical,Married,4374,0,Better,3
+36,0,Research & Development,3,College,Life Sciences,Divorced,6842,6,Better,5
+54,0,Research & Development,22,Doctor,Medical,Married,17426,3,Better,10
+43,0,Research & Development,15,College,Life Sciences,Married,17603,1,Better,14
+35,1,Sales,12,Master,Other,Single,4581,3,Best,11
+38,0,Research & Development,1,Bachelor,Life Sciences,Married,4735,7,Best,13
+29,0,Sales,5,Bachelor,Medical,Divorced,4187,1,Good,10
+33,0,Sales,2,Master,Medical,Divorced,5505,1,Better,6
+32,0,Research & Development,2,Bachelor,Medical,Divorced,5470,0,Good,9
+31,0,Sales,5,Master,Life Sciences,Married,5476,1,Better,10
+49,0,Research & Development,16,Bachelor,Medical,Divorced,2587,4,Good,2
+38,0,Research & Development,2,Bachelor,Medical,Single,2440,1,Better,4
+47,0,Sales,2,Master,Life Sciences,Divorced,15972,6,Better,3
+49,0,Research & Development,1,Bachelor,Life Sciences,Single,15379,4,Better,8
+41,0,Sales,23,College,Life Sciences,Single,7082,3,Better,2
+20,0,Sales,9,Below College,Life Sciences,Single,2728,1,Better,2
+33,0,Sales,16,Bachelor,Life Sciences,Divorced,5368,1,Better,6
+36,0,Research & Development,26,Master,Life Sciences,Married,5347,6,Good,3
+44,0,Human Resources,1,Bachelor,Life Sciences,Divorced,3195,4,Better,2
+23,1,Research & Development,8,Below College,Medical,Single,3989,1,Better,5
+38,0,Research & Development,4,College,Medical,Married,3306,7,Good,0
+53,0,Research & Development,24,Master,Medical,Married,7005,3,Better,4
+48,1,Sales,7,College,Medical,Married,2655,2,Better,9
+32,1,Research & Development,2,Master,Life Sciences,Single,1393,1,Better,1
+26,0,Research & Development,7,Bachelor,Medical,Single,2570,1,Better,7
+55,0,Research & Development,22,Bachelor,Technical Degree,Divorced,3537,5,Better,4
+34,0,Research & Development,5,College,Medical,Married,3986,1,Best,15
+60,0,Research & Development,1,Master,Medical,Divorced,10883,3,Best,1
+33,0,Research & Development,21,Bachelor,Medical,Married,2028,1,Better,14
+37,0,Sales,1,Master,Medical,Divorced,9525,1,Good,6
+34,0,Research & Development,19,Bachelor,Life Sciences,Married,2929,1,Better,10
+23,1,Sales,7,Bachelor,Life Sciences,Divorced,2275,1,Better,3
+44,0,Research & Development,2,Bachelor,Life Sciences,Married,7879,1,Better,8
+35,0,Research & Development,2,Master,Medical,Single,4930,0,Best,5
+43,0,Sales,2,Bachelor,Medical,Married,7847,1,Better,10
+24,0,Research & Development,9,Bachelor,Medical,Married,4401,1,Better,5
+41,0,Sales,6,Bachelor,Marketing,Single,9241,1,Better,10
+29,0,Research & Development,9,Master,Medical,Married,2974,9,Better,5
+36,0,Sales,2,Master,Life Sciences,Single,4502,3,Good,13
+45,0,Research & Development,1,Below College,Life Sciences,Married,10748,3,Good,23
+24,1,Human Resources,22,Below College,Human Resources,Married,1555,1,Better,1
+47,1,Sales,9,Bachelor,Life Sciences,Married,12936,7,Bad,23
+26,0,Research & Development,17,Master,Medical,Married,2305,1,Best,3
+45,0,Research & Development,28,College,Technical Degree,Single,16704,1,Better,21
+32,0,Research & Development,10,Bachelor,Life Sciences,Married,3433,6,Good,5
+31,0,Research & Development,2,Master,Life Sciences,Married,3477,1,Best,5
+41,0,Human Resources,4,Bachelor,Human Resources,Married,6430,6,Better,3
+40,0,Research & Development,8,College,Life Sciences,Married,6516,2,Better,1
+24,0,Research & Development,29,Below College,Medical,Divorced,3907,1,Best,6
+46,0,Research & Development,13,Master,Life Sciences,Single,5562,6,Better,10
+35,0,Research & Development,27,Master,Life Sciences,Married,6883,2,Better,7
+30,0,Research & Development,16,Below College,Life Sciences,Married,2862,1,Good,10
+47,0,Sales,2,Master,Marketing,Married,4978,7,Bad,1
+46,0,Sales,2,Bachelor,Life Sciences,Divorced,10368,4,Good,10
+36,1,Sales,13,Doctor,Marketing,Divorced,6134,5,Better,2
+32,1,Sales,1,College,Life Sciences,Single,6735,6,Better,0
+23,0,Research & Development,4,Below College,Medical,Single,3295,1,Bad,3
+31,0,Research & Development,24,Below College,Technical Degree,Single,5238,2,Good,5
+39,0,Research & Development,1,Bachelor,Life Sciences,Married,6472,1,Better,9
+32,0,Sales,19,Bachelor,Life Sciences,Married,9610,3,Bad,4
+40,0,Sales,7,Master,Medical,Single,19833,1,Good,21
+45,0,Human Resources,4,Bachelor,Life Sciences,Married,9756,4,Best,5
+30,0,Research & Development,2,Master,Technical Degree,Single,4968,0,Better,9
+24,0,Human Resources,10,Bachelor,Medical,Married,2145,0,Better,2
+30,1,Human Resources,8,Bachelor,Human Resources,Divorced,2180,6,Good,4
+31,0,Sales,5,Bachelor,Technical Degree,Married,8346,1,Better,5
+27,0,Research & Development,8,Bachelor,Medical,Single,3445,1,Good,6
+29,1,Sales,9,Bachelor,Marketing,Single,2760,1,Better,2
+29,0,Research & Development,1,Bachelor,Life Sciences,Single,6294,8,Best,3
+30,0,Sales,15,College,Marketing,Divorced,7140,2,Better,7
+34,0,Research & Development,2,Master,Medical,Married,2932,0,Better,5
+33,0,Sales,2,Bachelor,Marketing,Single,5147,8,Good,11
+49,0,Sales,11,Master,Marketing,Single,4507,3,Best,5
+33,1,Sales,16,Bachelor,Life Sciences,Single,8564,2,Good,0
+38,0,Research & Development,2,College,Medical,Married,2468,4,Good,6
+31,1,Sales,16,Master,Marketing,Married,8161,2,Better,1
+29,0,Research & Development,4,Bachelor,Technical Degree,Divorced,2109,1,Better,1
+30,0,Research & Development,16,Bachelor,Life Sciences,Married,5294,3,Better,7
+32,0,Research & Development,5,Master,Technical Degree,Single,2718,2,Better,7
+38,0,Research & Development,18,Bachelor,Medical,Married,5811,3,Better,1
+43,1,Research & Development,17,Bachelor,Technical Degree,Married,2437,9,Better,1
+42,0,Research & Development,12,Bachelor,Medical,Divorced,2766,8,Good,5
+55,0,Research & Development,2,Bachelor,Medical,Married,19038,8,Better,1
+33,0,Research & Development,4,Bachelor,Technical Degree,Divorced,3055,5,Good,9
+41,0,Research & Development,9,Master,Life Sciences,Divorced,2289,1,Better,5
+34,0,Sales,10,Bachelor,Life Sciences,Divorced,4001,1,Better,15
+53,0,Research & Development,1,Master,Medical,Married,12965,4,Good,3
+43,0,Human Resources,2,Bachelor,Life Sciences,Single,3539,0,Better,9
+34,0,Sales,3,College,Life Sciences,Single,6029,5,Better,2
+21,1,Sales,7,Below College,Marketing,Single,2679,1,Better,1
+38,0,Research & Development,6,College,Other,Married,3702,1,Better,5
+22,1,Research & Development,8,Below College,Medical,Married,2398,1,Better,1
+31,0,Sales,29,Master,Marketing,Married,5468,1,Better,12
+51,0,Research & Development,3,Bachelor,Technical Degree,Married,13116,2,Better,2
+37,0,Sales,9,College,Marketing,Married,4189,1,Better,5
+46,0,Research & Development,2,Master,Medical,Divorced,19328,7,Better,2
+36,0,Research & Development,10,Bachelor,Life Sciences,Married,8321,7,Better,12
+44,1,Research & Development,1,College,Medical,Divorced,2342,1,Good,5
+37,0,Human Resources,8,College,Other,Divorced,4071,2,Good,10
+35,1,Sales,27,Bachelor,Life Sciences,Single,5813,1,Better,10
+33,0,Research & Development,8,Master,Life Sciences,Married,3143,6,Better,10
+28,0,Research & Development,1,Bachelor,Life Sciences,Married,2044,1,Best,5
+39,0,Research & Development,10,Below College,Medical,Single,13464,7,Better,4
+46,0,Sales,26,College,Life Sciences,Single,7991,8,Better,2
+40,0,Research & Development,2,College,Life Sciences,Married,3377,4,Good,4
+42,0,Research & Development,13,Bachelor,Medical,Married,5538,5,Good,0
+35,0,Research & Development,2,College,Medical,Divorced,5762,2,Better,7
+38,0,Human Resources,2,Bachelor,Human Resources,Divorced,2592,5,Better,11
+34,1,Research & Development,9,Master,Life Sciences,Married,5346,4,Good,7
+37,1,Research & Development,10,Master,Medical,Single,4213,1,Bad,10
+39,0,Sales,20,Bachelor,Life Sciences,Divorced,4127,2,Better,2
+43,0,Research & Development,9,Bachelor,Life Sciences,Single,2438,4,Good,3
+41,0,Research & Development,5,Bachelor,Life Sciences,Single,6870,3,Bad,3
+41,0,Sales,4,Below College,Marketing,Divorced,10447,0,Best,22
+30,0,Research & Development,10,Bachelor,Medical,Single,9667,9,Better,7
+26,1,Human Resources,20,College,Medical,Married,2148,0,Better,5
+46,1,Research & Development,21,College,Medical,Married,8926,4,Best,9
+40,0,Research & Development,1,Bachelor,Life Sciences,Divorced,6513,4,Better,5
+34,0,Sales,8,College,Technical Degree,Married,6799,1,Better,10
+58,0,Sales,2,Bachelor,Medical,Divorced,16291,4,Good,16
+35,0,Research & Development,23,Master,Medical,Married,2705,0,Best,5
+47,0,Research & Development,4,Bachelor,Life Sciences,Divorced,10333,8,Better,22
+40,0,Research & Development,12,Bachelor,Life Sciences,Divorced,4448,2,Better,7
+54,0,Research & Development,7,Master,Medical,Married,6854,4,Good,7
+31,0,Sales,7,Master,Marketing,Married,9637,2,Better,3
+28,0,Research & Development,1,Bachelor,Medical,Married,3591,1,Better,3
+38,0,Sales,2,Master,Marketing,Married,5405,2,Good,4
+26,0,Sales,10,Bachelor,Medical,Single,4684,1,Better,5
+58,0,Research & Development,15,Master,Life Sciences,Married,15787,2,Better,2
+18,0,Research & Development,14,Bachelor,Medical,Single,1514,1,Bad,0
+31,1,Human Resources,18,Doctor,Human Resources,Married,2956,0,Better,1
+29,1,Human Resources,13,Bachelor,Human Resources,Divorced,2335,4,Better,2
+45,0,Sales,2,Master,Life Sciences,Married,5154,4,Best,8
+36,0,Research & Development,2,Master,Other,Married,6962,4,Better,1
+43,0,Sales,2,Master,Life Sciences,Married,5675,1,Better,7
+27,0,Research & Development,5,College,Life Sciences,Single,2379,0,Good,5
+29,0,Research & Development,20,Below College,Medical,Married,3812,1,Best,11
+32,0,Sales,10,Master,Marketing,Single,4648,8,Best,0
+42,0,Research & Development,10,Master,Technical Degree,Married,2936,3,Good,6
+47,0,Research & Development,9,Master,Life Sciences,Single,2105,4,Better,2
+46,0,Research & Development,2,College,Life Sciences,Divorced,8578,3,Good,9
+28,0,Human Resources,1,College,Life Sciences,Divorced,2706,1,Better,3
+29,0,Research & Development,29,Below College,Life Sciences,Divorced,6384,8,Better,7
+42,0,Research & Development,8,Bachelor,Life Sciences,Single,3968,4,Better,0
+32,1,Sales,2,Master,Marketing,Single,9907,7,Good,2
+46,0,Sales,3,Bachelor,Technical Degree,Divorced,13225,2,Better,19
+27,0,Sales,23,Below College,Medical,Married,3540,1,Better,9
+29,0,Human Resources,6,Below College,Medical,Married,2804,1,Better,1
+43,0,Research & Development,6,Bachelor,Medical,Married,19392,7,Better,16
+48,0,Research & Development,10,Bachelor,Life Sciences,Married,19665,4,Better,22
+29,1,Research & Development,24,College,Life Sciences,Single,2439,1,Good,1
+46,1,Sales,10,Bachelor,Life Sciences,Married,7314,5,Better,8
+27,0,Research & Development,15,Bachelor,Life Sciences,Married,4774,0,Good,7
+39,0,Research & Development,19,Master,Other,Divorced,3902,8,Better,2
+55,0,Research & Development,2,Master,Technical Degree,Married,2662,8,Best,5
+28,0,Sales,3,Bachelor,Medical,Married,2856,1,Better,1
+30,1,Sales,9,Bachelor,Medical,Single,1081,1,Good,1
+22,1,Research & Development,7,Below College,Life Sciences,Single,2472,1,Better,1
+36,0,Sales,10,Master,Technical Degree,Married,5673,1,Better,10
+31,0,Research & Development,20,Bachelor,Life Sciences,Divorced,4197,1,Better,10
+34,0,Sales,4,Bachelor,Life Sciences,Married,9713,2,Better,5
+29,0,Research & Development,7,Bachelor,Life Sciences,Single,2062,3,Better,3
+37,0,Research & Development,7,Master,Medical,Married,4284,5,Better,5
+35,0,Research & Development,16,College,Other,Married,4788,0,Better,3
+45,0,Research & Development,25,College,Life Sciences,Married,5906,0,Good,9
+36,0,Human Resources,2,Below College,Human Resources,Single,3886,1,Good,10
+40,0,Research & Development,1,Master,Life Sciences,Divorced,16823,2,Better,19
+26,0,Research & Development,1,College,Life Sciences,Married,2933,1,Good,1
+27,0,Sales,2,College,Medical,Single,6500,0,Good,8
+48,0,Research & Development,22,Bachelor,Medical,Divorced,17174,3,Better,22
+44,0,Research & Development,1,Master,Life Sciences,Married,5033,2,Better,2
+34,1,Research & Development,16,Master,Technical Degree,Married,2307,1,Better,5
+56,1,Research & Development,24,College,Life Sciences,Single,2587,1,Better,4
+36,0,Sales,17,College,Marketing,Married,5507,2,Bad,4
+41,0,Sales,8,Bachelor,Marketing,Married,4393,5,Better,5
+42,0,Research & Development,6,Bachelor,Medical,Married,13348,9,Best,13
+31,0,Sales,10,College,Medical,Divorced,6583,2,Better,5
+34,0,Sales,3,Below College,Medical,Married,8103,3,Good,4
+31,0,Research & Development,4,Bachelor,Medical,Divorced,3978,8,Good,2
+26,0,Research & Development,6,Bachelor,Other,Married,2544,0,Better,7
+45,0,Research & Development,1,Master,Medical,Single,5399,4,Better,4
+33,0,Sales,10,Master,Marketing,Single,5487,1,Good,10
+28,0,Sales,1,College,Life Sciences,Married,6834,1,Better,7
+29,1,Sales,24,Bachelor,Technical Degree,Single,1091,1,Better,1
+39,0,Sales,21,Master,Life Sciences,Married,5736,6,Better,3
+27,0,Research & Development,2,Master,Technical Degree,Married,2226,1,Good,5
+34,0,Research & Development,22,Master,Other,Married,5747,1,Better,15
+28,1,Sales,13,College,Marketing,Single,9854,3,Better,2
+47,0,Research & Development,14,Master,Technical Degree,Married,5467,8,Best,8
+56,0,Sales,11,Doctor,Marketing,Married,5380,4,Better,0
+39,0,Research & Development,9,College,Medical,Married,5151,1,Better,10
+38,0,Research & Development,8,Bachelor,Medical,Divorced,2133,1,Better,20
+58,0,Sales,21,Bachelor,Life Sciences,Married,17875,4,Good,1
+32,1,Research & Development,5,College,Life Sciences,Single,2432,3,Better,4
+38,0,Research & Development,9,College,Life Sciences,Divorced,4771,2,Best,5
+49,0,Research & Development,2,Below College,Life Sciences,Married,19161,3,Better,5
+42,0,Sales,12,Master,Marketing,Divorced,5087,3,Better,0
+27,1,Human Resources,22,Bachelor,Human Resources,Married,2863,1,Better,1
+35,0,Sales,18,Master,Medical,Married,5561,0,Bad,5
+28,0,Research & Development,16,Bachelor,Medical,Single,2144,1,Good,5
+31,0,Research & Development,3,College,Medical,Divorced,3065,1,Best,4
+36,0,Research & Development,9,Master,Life Sciences,Married,2810,1,Better,5
+34,0,Sales,1,Bachelor,Marketing,Single,9888,1,Good,14
+34,0,Sales,13,Master,Medical,Divorced,8628,1,Good,8
+26,0,Research & Development,1,Bachelor,Medical,Single,2867,0,Good,7
+29,0,Research & Development,1,Bachelor,Life Sciences,Married,5373,0,Good,5
+32,0,Research & Development,15,Master,Medical,Divorced,6667,5,Better,5
+31,0,Research & Development,1,Bachelor,Life Sciences,Married,5003,1,Better,10
+28,1,Research & Development,17,Bachelor,Technical Degree,Divorced,2367,5,Good,4
+38,0,Sales,1,Bachelor,Life Sciences,Single,2858,4,Good,1
+35,0,Sales,7,Master,Life Sciences,Married,5204,1,Better,10
+27,0,Sales,9,Bachelor,Marketing,Single,4105,1,Better,7
+32,0,Research & Development,5,Master,Life Sciences,Single,9679,8,Better,1
+31,1,Sales,26,Master,Marketing,Married,5617,1,Better,10
+53,1,Sales,24,Master,Life Sciences,Single,10448,6,Good,2
+54,0,Research & Development,9,College,Life Sciences,Married,2897,3,Good,4
+33,0,Research & Development,7,College,Life Sciences,Divorced,5968,1,Better,9
+43,0,Research & Development,11,Bachelor,Life Sciences,Married,7510,1,Better,10
+38,0,Human Resources,1,Master,Other,Married,2991,0,Better,6
+55,0,Human Resources,26,Master,Human Resources,Married,19636,4,Better,10
+31,0,Research & Development,2,Below College,Medical,Divorced,1129,1,Better,1
+39,0,Sales,15,Master,Marketing,Single,13341,0,Better,20
+42,0,Research & Development,23,College,Life Sciences,Single,4332,1,Better,20
+31,0,Research & Development,10,Bachelor,Medical,Married,11031,4,Best,11
+54,0,Research & Development,10,Bachelor,Medical,Single,4440,6,Better,5
+24,0,Research & Development,1,College,Life Sciences,Single,4617,1,Good,4
+23,0,Research & Development,12,College,Other,Single,2647,1,Best,5
+40,0,Research & Development,11,Bachelor,Technical Degree,Married,6323,1,Best,10
+40,0,Sales,2,College,Marketing,Married,5677,3,Better,11
+25,0,Human Resources,2,Bachelor,Human Resources,Married,2187,4,Better,2
+30,0,Research & Development,1,College,Medical,Married,3748,1,Good,12
+25,0,Research & Development,2,Below College,Other,Divorced,3977,6,Good,2
+47,0,Research & Development,25,Bachelor,Medical,Single,8633,2,Better,17
+33,0,Research & Development,1,College,Medical,Divorced,2008,1,Good,1
+38,0,Sales,1,Master,Life Sciences,Married,4440,0,Better,15
+31,0,Sales,2,College,Life Sciences,Married,3067,0,Better,2
+38,0,Research & Development,6,Master,Life Sciences,Married,5321,2,Better,8
+42,0,Research & Development,18,Master,Life Sciences,Divorced,5410,6,Good,4
+41,0,Research & Development,1,Bachelor,Life Sciences,Married,2782,3,Better,5
+47,0,Research & Development,1,Below College,Medical,Married,11957,0,Bad,13
+35,0,Research & Development,11,Master,Medical,Married,2660,7,Better,2
+22,0,Research & Development,1,College,Life Sciences,Single,3375,0,Best,3
+35,0,Research & Development,9,Master,Medical,Single,5098,1,Better,10
+33,0,Research & Development,15,College,Medical,Married,4878,0,Better,9
+32,0,Research & Development,29,Master,Life Sciences,Single,2837,1,Better,6
+40,0,Research & Development,1,Master,Life Sciences,Married,2406,8,Good,1
+32,0,Sales,1,Master,Medical,Married,2269,0,Better,2
+39,0,Research & Development,24,Below College,Life Sciences,Single,4108,7,Better,7
+38,0,Research & Development,10,Bachelor,Medical,Married,13206,3,Better,18
+32,0,Sales,1,Master,Marketing,Married,10422,1,Better,14
+37,0,Research & Development,10,Bachelor,Life Sciences,Married,13744,1,Better,16
+25,0,Sales,8,College,Other,Divorced,4907,0,Good,5
+52,0,Sales,29,Master,Life Sciences,Divorced,3482,2,Good,9
+44,0,Research & Development,1,Bachelor,Medical,Single,2436,6,Better,4
+21,0,Sales,5,Below College,Medical,Single,2380,1,Better,2
+39,0,Research & Development,9,Bachelor,Life Sciences,Single,19431,2,Good,6
+23,1,Sales,9,Bachelor,Marketing,Married,1790,1,Good,1
+36,0,Sales,3,Bachelor,Medical,Married,7644,0,Better,9
+36,0,Research & Development,4,College,Life Sciences,Divorced,5131,7,Better,4
+56,0,Research & Development,1,Master,Life Sciences,Divorced,6306,1,Good,13
+29,1,Research & Development,1,Master,Medical,Married,4787,9,Best,2
+42,0,Research & Development,2,Bachelor,Life Sciences,Married,18880,5,Good,22
+56,1,Research & Development,7,College,Technical Degree,Married,2339,8,Bad,10
+41,0,Research & Development,28,Master,Life Sciences,Married,13570,0,Better,20
+34,0,Sales,28,Bachelor,Marketing,Married,6712,1,Better,8
+36,0,Sales,15,Master,Marketing,Divorced,5406,1,Good,15
+41,0,Sales,3,Bachelor,Life Sciences,Divorced,8938,2,Better,5
+32,0,Research & Development,2,Bachelor,Technical Degree,Single,2439,1,Better,4
+35,0,Human Resources,26,Master,Life Sciences,Single,8837,1,Better,9
+38,0,Sales,10,College,Life Sciences,Married,5343,1,Better,10
+50,1,Sales,1,Master,Life Sciences,Divorced,6728,7,Better,6
+36,0,Sales,11,Master,Marketing,Married,6652,4,Good,6
+45,0,Sales,20,Bachelor,Life Sciences,Single,4850,8,Better,5
+40,0,Research & Development,2,Master,Life Sciences,Single,2809,2,Better,2
+35,0,Research & Development,18,Master,Life Sciences,Married,5689,1,Best,10
+40,0,Research & Development,2,Master,Medical,Married,2001,2,Better,5
+35,0,Research & Development,1,Master,Life Sciences,Married,2977,1,Better,4
+29,0,Research & Development,13,College,Other,Married,4025,4,Better,4
+29,0,Research & Development,28,Master,Medical,Single,3785,1,Bad,5
+50,1,Sales,28,Bachelor,Marketing,Divorced,10854,4,Better,3
+39,0,Sales,24,Below College,Marketing,Married,12031,0,Good,20
+31,0,Research & Development,5,Bachelor,Medical,Single,9936,0,Better,9
+26,0,Sales,5,Bachelor,Other,Single,2966,0,Better,4
+36,0,Research & Development,23,College,Medical,Married,2571,4,Better,5
+39,0,Research & Development,6,Below College,Medical,Married,9991,4,Better,7
+27,0,Research & Development,4,Bachelor,Life Sciences,Married,6142,1,Better,6
+49,0,Sales,2,Bachelor,Medical,Married,5390,2,Good,9
+34,0,Research & Development,8,Bachelor,Medical,Married,4404,2,Best,4

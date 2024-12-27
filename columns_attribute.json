@@ -1,0 +1,68 @@
+{
+    "age": [
+        "numeric",
+        "int"
+    ],
+    "department": [
+        "category",
+        [
+            "Sales",
+            "Research & Development",
+            "Human Resources"
+        ]
+    ],
+    "distance from home (miles)": [
+        "numeric",
+        "int"
+    ],
+    "education": [
+        "category",
+        [
+            "College",
+            "Below College",
+            "Master",
+            "Bachelor",
+            "Doctor"
+        ]
+    ],
+    "education field": [
+        "category",
+        [
+            "Life Sciences",
+            "Other",
+            "Medical",
+            "Marketing",
+            "Technical Degree",
+            "Human Resources"
+        ]
+    ],
+    "marital status": [
+        "category",
+        [
+            "Single",
+            "Married",
+            "Divorced"
+        ]
+    ],
+    "monthly income": [
+        "numeric",
+        "int"
+    ],
+    "number of companies worked": [
+        "numeric",
+        "int"
+    ],
+    "work life balance": [
+        "category",
+        [
+            "Bad",
+            "Better",
+            "Good",
+            "Best"
+        ]
+    ],
+    "years at company": [
+        "numeric",
+        "int"
+    ]
+}
