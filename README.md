@@ -30,7 +30,7 @@ For further details about the dataset, see [Employee-Attrition-Rate](https://www
    - **Feature Engineering & Modeling & Hyperparameter Tuning**:
       - Categorical features are encoded by `WOEEncoder` from the `category_encoders` library.
       - Train and evaluate Logistic Regression, Random Forest, and XGBoost models.
-      - Use `CalibratedClassifierCV1 from 1scikit-learn` to calibrate prediction probabilities
+      - Use `CalibratedClassifierCV` from `scikit-learn` to calibrate prediction probabilities
       - Use `Pipeline` and `GridSearchCV` from `scikit-learn` for hyperparameter tuning.
       - Results indicate that the Random Forest model outperforms others in terms of negative log loss, achieving the best performance.
 
@@ -67,3 +67,6 @@ For further details about the dataset, see [Employee-Attrition-Rate](https://www
    The web service will be available at [http://localhost:8501/](http://localhost:8501/).
 
 ---
+
+## Cloud Deployment
+I have deployed my project on Streamlit Cloud, you can access the application at [https://mlzoomcamp-employee-attrition-prediction.streamlit.app/](https://mlzoomcamp-employee-attrition-prediction.streamlit.app/)
